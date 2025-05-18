@@ -1,0 +1,18 @@
+2025-05-17 01:59:18.688039+03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRUCKS" not found (this database is empty); SQL statement:
+INSERT INTO trucks (name, capacity) VALUES (?, ?) [42104-224]
+2025-05-17 01:59:19.000181+03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRUCKS" not found (this database is empty); SQL statement:
+INSERT INTO trucks (name, capacity) VALUES (?, ?) [42104-224]
+2025-05-17 01:59:19.262213+03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRUCKS" not found (this database is empty); SQL statement:
+INSERT INTO trucks (name, capacity) VALUES (?, ?) [42104-224]
+2025-05-18 14:05:35.574954+03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRUCKS" not found (this database is empty); SQL statement:
+INSERT INTO trucks (name, capacity) VALUES (?, ?) [42104-224]
+2025-05-18 14:05:35.905217+03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRUCKS" not found (this database is empty); SQL statement:
+INSERT INTO trucks (name, capacity) VALUES (?, ?) [42104-224]
+2025-05-18 14:05:36.176054+03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRUCKS" not found (this database is empty); SQL statement:
+INSERT INTO trucks (name, capacity) VALUES (?, ?) [42104-224]

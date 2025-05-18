@@ -1,0 +1,135 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Command Pattern">
+    <mxGraphModel>
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+
+        <!-- CoffeeConsoleView class -->
+        <mxCell id="2" value="CoffeeConsoleView" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="20" width="160" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="coffeeService: CoffeeService" style="text;html=1;" vertex="1" parent="2">
+          <mxGeometry y="20" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4" value="scanner: Scanner" style="text;html=1;" vertex="1" parent="2">
+          <mxGeometry y="50" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="commands: Map&lt;Integer, Command&gt;" style="text;html=1;" vertex="1" parent="2">
+          <mxGeometry y="80" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6" value="showMenu()" style="text;html=1;" vertex="1" parent="2">
+          <mxGeometry y="110" width="160" height="30" as="geometry" />
+        </mxCell>
+
+        <!-- Command interface -->
+        <mxCell id="7" value="Command" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="20" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8" value="execute()" style="text;html=1;" vertex="1" parent="7">
+          <mxGeometry y="20" width="160" height="30" as="geometry" />
+        </mxCell>
+
+        <!-- AddCoffeeCommand class -->
+        <mxCell id="9" value="AddCoffeeCommand" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="220" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="10" value="view: CoffeeConsoleView" style="text;html=1;" vertex="1" parent="9">
+          <mxGeometry y="20" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="11" value="execute()" style="text;html=1;" vertex="1" parent="9">
+          <mxGeometry y="50" width="160" height="30" as="geometry" />
+        </mxCell>
+
+        <!-- DisplayAllCoffeesCommand class -->
+        <mxCell id="12" value="DisplayAllCoffeesCommand" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="100" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="13" value="view: CoffeeConsoleView" style="text;html=1;" vertex="1" parent="12">
+          <mxGeometry y="20" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="14" value="execute()" style="text;html=1;" vertex="1" parent="12">
+          <mxGeometry y="50" width="160" height="30" as="geometry" />
+        </mxCell>
+
+        <!-- DisplayLoadedCoffeeCommand class -->
+        <mxCell id="15" value="DisplayLoadedCoffeeCommand" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="20" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="16" value="view: CoffeeConsoleView" style="text;html=1;" vertex="1" parent="15">
+          <mxGeometry y="20" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="17" value="execute()" style="text;html=1;" vertex="1" parent="15">
+          <mxGeometry y="50" width="160" height="30" as="geometry" />
+        </mxCell>
+
+        <!-- LoadTruckCommand class -->
+        <mxCell id="18" value="LoadTruckCommand" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="120" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="19" value="view: CoffeeConsoleView" style="text;html=1;" vertex="1" parent="18">
+          <mxGeometry y="20" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="20" value="execute()" style="text;html=1;" vertex="1" parent="18">
+          <mxGeometry y="50" width="160" height="30" as="geometry" />
+        </mxCell>
+
+        <!-- ExitCommand class -->
+        <mxCell id="21" value="ExitCommand" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="220" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="22" value="execute()" style="text;html=1;" vertex="1" parent="21">
+          <mxGeometry y="20" width="160" height="30" as="geometry" />
+        </mxCell>
+
+        <!-- SearchByQualityCommand class -->
+        <mxCell id="23" value="SearchByQualityCommand" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="220" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="24" value="view: CoffeeConsoleView" style="text;html=1;" vertex="1" parent="23">
+          <mxGeometry y="20" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="25" value="execute()" style="text;html=1;" vertex="1" parent="23">
+          <mxGeometry y="50" width="160" height="30" as="geometry" />
+        </mxCell>
+
+        <!-- SortByPricePerWeightCommand class -->
+        <mxCell id="26" value="SortByPricePerWeightCommand" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="320" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="27" value="view: CoffeeConsoleView" style="text;html=1;" vertex="1" parent="26">
+          <mxGeometry y="20" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="28" value="execute()" style="text;html=1;" vertex="1" parent="26">
+          <mxGeometry y="50" width="160" height="30" as="geometry" />
+        </mxCell>
+
+        <!-- Relationships -->
+        <mxCell id="29" style="endArrow=block;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="2" target="7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="30" style="endArrow=block;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="9" target="7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="31" style="endArrow=block;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="12" target="7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="32" style="endArrow=block;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="15" target="7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="33" style="endArrow=block;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="18" target="7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="34" style="endArrow=block;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="21" target="7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="35" style="endArrow=block;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="23" target="7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="36" style="endArrow=block;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="26" target="7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

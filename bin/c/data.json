@@ -1,0 +1,30 @@
+[
+    {
+      "id": "1",
+      "label": "Coffee",
+      "attributes": [
+        "type: String",
+        "physicalState: String",
+        "volume: double",
+        "weight: double",
+        "price: double"
+      ]
+    },
+    {
+      "id": "2",
+      "label": "Truck",
+      "attributes": [
+        "capacity: double",
+        "loadedCoffee: List<Coffee>"
+      ]
+    },
+    {
+      "id": "3",
+      "label": "CoffeeService",
+      "attributes": [
+        "coffeeList: List<Coffee>",
+        "truck: Truck"
+      ]
+    }
+  ]
+  

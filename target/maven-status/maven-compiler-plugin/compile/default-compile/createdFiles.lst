@@ -1,0 +1,13 @@
+service\CoffeeService.class
+view\LoadTruckView.class
+view\AddCoffeeView.class
+view\SortCoffeeView.class
+database\TruckCoffeeDAO.class
+view\LoadedCoffeeView.class
+view\CoffeeListView.class
+model\Truck.class
+database\DatabaseManager.class
+view\SearchCoffeeView.class
+view\CoffeeApp.class
+database\TruckDAO.class
+model\Coffee.class

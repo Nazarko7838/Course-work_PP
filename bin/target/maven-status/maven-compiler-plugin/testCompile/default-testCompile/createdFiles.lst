@@ -1,0 +1,11 @@
+command\DisplayLoadedCoffeeCommandTest.class
+command\LoadTruckCommandTest.class
+command\DisplayAllCoffeesCommandTest.class
+command\SortByPricePerWeightCommandTest.class
+command\SearchByQualityCommandTest.class
+command\AddCoffeeCommandTest.class
+service\CoffeeServiceTest.class
+view\CoffeeConsoleViewTest.class
+model\TruckTest.class
+command\ExitCommandTest.class
+model\CoffeeTest.class

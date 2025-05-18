@@ -1,0 +1,13 @@
+service\CoffeeService.class
+command\ExitCommand.class
+command\AddCoffeeCommand.class
+command\Command.class
+command\DisplayAllCoffeesCommand.class
+Main.class
+model\Truck.class
+command\DisplayLoadedCoffeeCommand.class
+command\SearchByQualityCommand.class
+model\Coffee.class
+view\CoffeeConsoleView.class
+command\LoadTruckCommand.class
+command\SortByPricePerWeightCommand.class
