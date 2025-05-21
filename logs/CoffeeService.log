@@ -9174,3 +9174,1460 @@ java.lang.RuntimeException: delete error
 2025-05-18 22:28:22 WARN  [JavaFX Application Thread] view.LoadTruckView - Недостатньо місця у фургоні для завантаження 2 од. кави 'Arabica'
 2025-05-18 22:28:23 INFO  [JavaFX Application Thread] view.LoadTruckView - Фургон створено з об'ємом 100.0 л
 2025-05-18 22:28:23 WARN  [JavaFX Application Thread] view.LoadTruckView - Неправильний формат кількості: abc
+2025-05-19 00:10:06 INFO  [JavaFX Application Thread] view.CoffeeApp - Запуск програми CoffeeApp
+2025-05-19 00:10:07 INFO  [JavaFX Application Thread] view.CoffeeApp - Базу даних ініціалізовано успішно
+2025-05-19 00:10:07 INFO  [JavaFX Application Thread] view.CoffeeApp - Фонове зображення завантажено успішно
+2025-05-19 00:10:07 INFO  [JavaFX Application Thread] view.CoffeeListView - Створення вікна списку кави
+2025-05-19 00:10:07 INFO  [JavaFX Application Thread] view.CoffeeListView - Успішно завантажено 0 товарів
+2025-05-19 00:10:07 INFO  [JavaFX Application Thread] view.CoffeeApp - Початковий екран завантажено
+2025-05-19 00:10:08 INFO  [JavaFX Application Thread] view.CoffeeApp - Головне вікно показано
+2025-05-19 00:10:09 INFO  [JavaFX Application Thread] view.SortCoffeeView - Початок сортування кави за ціна/вага
+2025-05-19 00:10:09 INFO  [JavaFX Application Thread] view.SortCoffeeView - Сортування завершено, знайдено 0 елементів
+2025-05-19 00:10:09 INFO  [JavaFX Application Thread] view.CoffeeApp - Сортування кави відкрите
+2025-05-19 00:10:09 INFO  [JavaFX Application Thread] view.CoffeeApp - Запуск програми CoffeeApp
+2025-05-19 00:10:09 INFO  [JavaFX Application Thread] view.CoffeeApp - Базу даних ініціалізовано успішно
+2025-05-19 00:10:09 INFO  [JavaFX Application Thread] view.CoffeeApp - Фонове зображення завантажено успішно
+2025-05-19 00:10:09 INFO  [JavaFX Application Thread] view.CoffeeListView - Створення вікна списку кави
+2025-05-19 00:10:09 INFO  [JavaFX Application Thread] view.CoffeeListView - Успішно завантажено 0 товарів
+2025-05-19 00:10:09 INFO  [JavaFX Application Thread] view.CoffeeApp - Початковий екран завантажено
+2025-05-19 00:10:09 INFO  [JavaFX Application Thread] view.CoffeeApp - Головне вікно показано
+2025-05-19 00:10:10 INFO  [JavaFX Application Thread] view.CoffeeApp - Форма додавання кави відкрита
+2025-05-19 00:10:10 INFO  [JavaFX Application Thread] view.CoffeeApp - Запуск програми CoffeeApp
+2025-05-19 00:10:11 INFO  [JavaFX Application Thread] view.CoffeeApp - Базу даних ініціалізовано успішно
+2025-05-19 00:10:11 INFO  [JavaFX Application Thread] view.CoffeeApp - Фонове зображення завантажено успішно
+2025-05-19 00:10:11 INFO  [JavaFX Application Thread] view.CoffeeListView - Створення вікна списку кави
+2025-05-19 00:10:11 INFO  [JavaFX Application Thread] view.CoffeeListView - Успішно завантажено 0 товарів
+2025-05-19 00:10:11 INFO  [JavaFX Application Thread] view.CoffeeApp - Початковий екран завантажено
+2025-05-19 00:10:11 INFO  [JavaFX Application Thread] view.CoffeeApp - Головне вікно показано
+2025-05-19 00:10:11 INFO  [JavaFX Application Thread] view.CoffeeApp - Пошук кави відкрито
+2025-05-19 00:10:12 INFO  [JavaFX Application Thread] view.CoffeeApp - Запуск програми CoffeeApp
+2025-05-19 00:10:12 INFO  [JavaFX Application Thread] view.CoffeeApp - Базу даних ініціалізовано успішно
+2025-05-19 00:10:12 INFO  [JavaFX Application Thread] view.CoffeeApp - Фонове зображення завантажено успішно
+2025-05-19 00:10:12 INFO  [JavaFX Application Thread] view.CoffeeListView - Створення вікна списку кави
+2025-05-19 00:10:12 INFO  [JavaFX Application Thread] view.CoffeeListView - Успішно завантажено 0 товарів
+2025-05-19 00:10:12 INFO  [JavaFX Application Thread] view.CoffeeApp - Початковий екран завантажено
+2025-05-19 00:10:12 INFO  [JavaFX Application Thread] view.CoffeeApp - Головне вікно показано
+2025-05-19 00:10:12 INFO  [JavaFX Application Thread] view.LoadedCoffeeView - Створення вікна завантажених товарів
+2025-05-19 00:10:13 INFO  [JavaFX Application Thread] view.LoadedCoffeeView - Завантажено 0 фургонів
+2025-05-19 00:10:13 INFO  [JavaFX Application Thread] view.CoffeeApp - Перегляд завантажених товарів відкрито
+2025-05-19 00:10:13 INFO  [JavaFX Application Thread] view.CoffeeApp - Запуск програми CoffeeApp
+2025-05-19 00:10:13 INFO  [JavaFX Application Thread] view.CoffeeApp - Базу даних ініціалізовано успішно
+2025-05-19 00:10:13 INFO  [JavaFX Application Thread] view.CoffeeApp - Фонове зображення завантажено успішно
+2025-05-19 00:10:13 INFO  [JavaFX Application Thread] view.CoffeeListView - Створення вікна списку кави
+2025-05-19 00:10:13 INFO  [JavaFX Application Thread] view.CoffeeListView - Успішно завантажено 0 товарів
+2025-05-19 00:10:13 INFO  [JavaFX Application Thread] view.CoffeeApp - Початковий екран завантажено
+2025-05-19 00:10:14 INFO  [JavaFX Application Thread] view.CoffeeApp - Головне вікно показано
+2025-05-19 00:10:14 INFO  [JavaFX Application Thread] view.CoffeeApp - Завантаження фургону відкрите
+2025-05-19 00:10:14 INFO  [JavaFX Application Thread] view.CoffeeApp - Запуск програми CoffeeApp
+2025-05-19 00:10:15 INFO  [JavaFX Application Thread] view.CoffeeApp - Базу даних ініціалізовано успішно
+2025-05-19 00:10:15 INFO  [JavaFX Application Thread] view.CoffeeApp - Фонове зображення завантажено успішно
+2025-05-19 00:10:15 INFO  [JavaFX Application Thread] view.CoffeeListView - Створення вікна списку кави
+2025-05-19 00:10:15 INFO  [JavaFX Application Thread] view.CoffeeListView - Успішно завантажено 0 товарів
+2025-05-19 00:10:15 INFO  [JavaFX Application Thread] view.CoffeeApp - Початковий екран завантажено
+2025-05-19 00:10:15 INFO  [JavaFX Application Thread] view.CoffeeApp - Головне вікно показано
+2025-05-19 00:10:15 INFO  [JavaFX Application Thread] view.CoffeeListView - Створення вікна списку кави
+2025-05-19 00:10:15 INFO  [JavaFX Application Thread] view.CoffeeListView - Успішно завантажено 0 товарів
+2025-05-19 00:10:15 INFO  [JavaFX Application Thread] view.CoffeeApp - Перегляд товарів відкрито
+2025-05-19 00:10:15 INFO  [JavaFX Application Thread] view.CoffeeApp - Запуск програми CoffeeApp
+2025-05-19 00:10:16 INFO  [JavaFX Application Thread] view.CoffeeApp - Базу даних ініціалізовано успішно
+2025-05-19 00:10:16 INFO  [JavaFX Application Thread] view.CoffeeApp - Фонове зображення завантажено успішно
+2025-05-19 00:10:16 INFO  [JavaFX Application Thread] view.CoffeeListView - Створення вікна списку кави
+2025-05-19 00:10:16 INFO  [JavaFX Application Thread] view.CoffeeListView - Успішно завантажено 0 товарів
+2025-05-19 00:10:16 INFO  [JavaFX Application Thread] view.CoffeeApp - Початковий екран завантажено
+2025-05-19 00:10:16 INFO  [JavaFX Application Thread] view.CoffeeApp - Головне вікно показано
+2025-05-19 00:10:16 INFO  [JavaFX Application Thread] view.CoffeeApp - Програма завершена користувачем
+2025-05-19 00:10:21 ERROR [JavaFX Application Thread] view.AddCoffeeView - Помилка при додаванні кави
+java.lang.NumberFormatException: For input string: "bad_number"
+	at java.base/jdk.internal.math.FloatingDecimal.readJavaFormatString(FloatingDecimal.java:2054)
+	at java.base/jdk.internal.math.FloatingDecimal.parseDouble(FloatingDecimal.java:110)
+	at java.base/java.lang.Double.parseDouble(Double.java:792)
+	at view.AddCoffeeView.lambda$new$0(AddCoffeeView.java:44)
+	at com.sun.javafx.event.CompositeEventHandler.dispatchBubblingEvent(CompositeEventHandler.java:86)
+	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:232)
+	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:189)
+	at com.sun.javafx.event.CompositeEventDispatcher.dispatchBubblingEvent(CompositeEventDispatcher.java:59)
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:58)
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+	at com.sun.javafx.event.EventUtil.fireEventImpl(EventUtil.java:74)
+	at com.sun.javafx.event.EventUtil.fireEvent(EventUtil.java:54)
+	at javafx.event.Event.fireEvent(Event.java:198)
+	at javafx.scene.Node.fireEvent(Node.java:8875)
+	at javafx.scene.control.Button.fire(Button.java:203)
+	at view.AddCoffeeViewTest.lambda$testAddCoffeeView_InvalidInput_ShowsError$1(AddCoffeeViewTest.java:76)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.base/java.util.concurrent.FutureTask.run$$$capture(FutureTask.java:317)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java)
+	at com.sun.javafx.application.PlatformImpl.lambda$runLater$10(PlatformImpl.java:456)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:400)
+	at com.sun.javafx.application.PlatformImpl.lambda$runLater$11(PlatformImpl.java:455)
+	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run$$$capture(InvokeLaterDispatcher.java:95)
+	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java)
+	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at com.sun.glass.ui.win.WinApplication.lambda$runLoop$3(WinApplication.java:185)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+2025-05-19 00:10:22 INFO  [JavaFX Application Thread] view.AddCoffeeView - Кава успішно додана: Кава [Тип: Зернова, Пакування: Банка, Об'єм: 1,10 л, Вага: 2,00 кг, Цiна: 150,00 грн]
+2025-05-19 00:10:22 INFO  [JavaFX Application Thread] view.AddCoffeeView - Кава успішно додана: Кава [Тип: Розчинна, Пакування: Пачка, Об'єм: 1,05 л, Вага: 1,00 кг, Цiна: 100,00 грн]
+2025-05-19 00:10:24 INFO  [main] view.CoffeeListView - Створення вікна списку кави
+2025-05-19 00:10:24 ERROR [main] view.CoffeeListView - Помилка при завантаженні списку кави
+java.lang.RuntimeException: DB error
+	at service.CoffeeService.getAllCoffees(CoffeeService.java:56)
+	at view.CoffeeListView.<init>(CoffeeListView.java:19)
+	at view.CoffeeListViewTest.testCoffeeListViewHandlesExceptionGracefully(CoffeeListViewTest.java:64)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.junit.platform.commons.util.ReflectionUtils.invokeMethod(ReflectionUtils.java:728)
+	at org.junit.jupiter.engine.execution.MethodInvocation.proceed(MethodInvocation.java:60)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain$ValidatingInvocation.proceed(InvocationInterceptorChain.java:131)
+	at org.junit.jupiter.engine.extension.TimeoutExtension.intercept(TimeoutExtension.java:156)
+	at org.junit.jupiter.engine.extension.TimeoutExtension.interceptTestableMethod(TimeoutExtension.java:147)
+	at org.junit.jupiter.engine.extension.TimeoutExtension.interceptTestMethod(TimeoutExtension.java:86)
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker$ReflectiveInterceptorCall.lambda$ofVoidMethod$0(InterceptingExecutableInvoker.java:103)
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker.lambda$invoke$0(InterceptingExecutableInvoker.java:93)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain$InterceptedInvocation.proceed(InvocationInterceptorChain.java:106)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.proceed(InvocationInterceptorChain.java:64)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.chainAndInvoke(InvocationInterceptorChain.java:45)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.invoke(InvocationInterceptorChain.java:37)
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker.invoke(InterceptingExecutableInvoker.java:92)
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker.invoke(InterceptingExecutableInvoker.java:86)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.lambda$invokeTestMethod$7(TestMethodTestDescriptor.java:218)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.invokeTestMethod(TestMethodTestDescriptor.java:214)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:139)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:69)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:151)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:155)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:155)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.submit(SameThreadHierarchicalTestExecutorService.java:35)
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestExecutor.execute(HierarchicalTestExecutor.java:57)
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestEngine.execute(HierarchicalTestEngine.java:54)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:198)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:169)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:93)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.lambda$execute$0(EngineExecutionOrchestrator.java:58)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.withInterceptedStreams(EngineExecutionOrchestrator.java:141)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:57)
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:103)
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:85)
+	at org.junit.platform.launcher.core.DelegatingLauncher.execute(DelegatingLauncher.java:47)
+	at org.junit.platform.launcher.core.SessionPerRequestLauncher.execute(SessionPerRequestLauncher.java:63)
+	at com.intellij.junit5.JUnit5IdeaTestRunner.startRunnerWithArgs(JUnit5IdeaTestRunner.java:57)
+	at com.intellij.rt.junit.IdeaTestRunner$Repeater$1.execute(IdeaTestRunner.java:38)
+	at com.intellij.rt.execution.junit.TestsRepeater.repeat(TestsRepeater.java:11)
+	at com.intellij.rt.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:35)
+	at com.intellij.rt.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:231)
+	at com.intellij.rt.junit.JUnitStarter.main(JUnitStarter.java:55)
+2025-05-19 00:10:24 INFO  [main] view.CoffeeListView - Створення вікна списку кави
+2025-05-19 00:10:24 INFO  [main] view.CoffeeListView - Успішно завантажено 2 товарів
+2025-05-19 00:10:24 INFO  [main] view.CoffeeListView - Створення вікна списку кави
+2025-05-19 00:10:24 INFO  [main] view.CoffeeListView - Успішно завантажено 0 товарів
+2025-05-19 00:10:24 WARN  [main] view.SearchCoffeeView - Некоректний формат введених даних для пошуку кави: For input string: "a"
+2025-05-19 00:10:24 INFO  [main] view.SearchCoffeeView - Пошук кави за параметрами: вага від 100.0 до 300.0, ціна від 20.0 до 35.0
+2025-05-19 00:10:25 INFO  [main] view.SearchCoffeeView - Пошук кави за параметрами: вага від 10.0 до 20.0, ціна від 5.0 до 15.0
+2025-05-19 00:10:25 INFO  [main] view.SearchCoffeeView - Пошук кави за параметрами: вага від 10.0 до 20.0, ціна від 5.0 до 15.0
+2025-05-19 00:10:25 ERROR [main] view.SearchCoffeeView - Критична помилка при пошуку кави
+java.lang.RuntimeException: DB Error
+	at service.CoffeeService.findByQuality(CoffeeService.java:66)
+	at view.SearchCoffeeView.lambda$new$0(SearchCoffeeView.java:50)
+	at com.sun.javafx.event.CompositeEventHandler.dispatchBubblingEvent(CompositeEventHandler.java:86)
+	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:232)
+	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:189)
+	at com.sun.javafx.event.CompositeEventDispatcher.dispatchBubblingEvent(CompositeEventDispatcher.java:59)
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:58)
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+	at com.sun.javafx.event.EventUtil.fireEventImpl(EventUtil.java:74)
+	at com.sun.javafx.event.EventUtil.fireEvent(EventUtil.java:54)
+	at javafx.event.Event.fireEvent(Event.java:198)
+	at javafx.scene.Node.fireEvent(Node.java:8875)
+	at javafx.scene.control.Button.fire(Button.java:203)
+	at view.SearchCoffeeViewTest.testSearchWithExceptionInService(SearchCoffeeViewTest.java:91)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.junit.platform.commons.util.ReflectionUtils.invokeMethod(ReflectionUtils.java:728)
+	at org.junit.jupiter.engine.execution.MethodInvocation.proceed(MethodInvocation.java:60)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain$ValidatingInvocation.proceed(InvocationInterceptorChain.java:131)
+	at org.junit.jupiter.engine.extension.TimeoutExtension.intercept(TimeoutExtension.java:156)
+	at org.junit.jupiter.engine.extension.TimeoutExtension.interceptTestableMethod(TimeoutExtension.java:147)
+	at org.junit.jupiter.engine.extension.TimeoutExtension.interceptTestMethod(TimeoutExtension.java:86)
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker$ReflectiveInterceptorCall.lambda$ofVoidMethod$0(InterceptingExecutableInvoker.java:103)
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker.lambda$invoke$0(InterceptingExecutableInvoker.java:93)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain$InterceptedInvocation.proceed(InvocationInterceptorChain.java:106)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.proceed(InvocationInterceptorChain.java:64)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.chainAndInvoke(InvocationInterceptorChain.java:45)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.invoke(InvocationInterceptorChain.java:37)
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker.invoke(InterceptingExecutableInvoker.java:92)
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker.invoke(InterceptingExecutableInvoker.java:86)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.lambda$invokeTestMethod$7(TestMethodTestDescriptor.java:218)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.invokeTestMethod(TestMethodTestDescriptor.java:214)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:139)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:69)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:151)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:155)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:155)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.submit(SameThreadHierarchicalTestExecutorService.java:35)
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestExecutor.execute(HierarchicalTestExecutor.java:57)
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestEngine.execute(HierarchicalTestEngine.java:54)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:198)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:169)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:93)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.lambda$execute$0(EngineExecutionOrchestrator.java:58)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.withInterceptedStreams(EngineExecutionOrchestrator.java:141)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:57)
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:103)
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:85)
+	at org.junit.platform.launcher.core.DelegatingLauncher.execute(DelegatingLauncher.java:47)
+	at org.junit.platform.launcher.core.SessionPerRequestLauncher.execute(SessionPerRequestLauncher.java:63)
+	at com.intellij.junit5.JUnit5IdeaTestRunner.startRunnerWithArgs(JUnit5IdeaTestRunner.java:57)
+	at com.intellij.rt.junit.IdeaTestRunner$Repeater$1.execute(IdeaTestRunner.java:38)
+	at com.intellij.rt.execution.junit.TestsRepeater.repeat(TestsRepeater.java:11)
+	at com.intellij.rt.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:35)
+	at com.intellij.rt.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:231)
+	at com.intellij.rt.junit.JUnitStarter.main(JUnitStarter.java:55)
+2025-05-19 00:10:25 INFO  [main] view.SortCoffeeView - Початок сортування кави за ціна/вага
+2025-05-19 00:10:25 INFO  [main] view.SortCoffeeView - Сортування завершено, знайдено 2 елементів
+2025-05-19 00:10:25 INFO  [main] view.SortCoffeeView - Початок сортування кави за ціна/вага
+2025-05-19 00:10:25 ERROR [main] view.SortCoffeeView - Помилка при сортуванні кави за ціна/вага
+java.lang.RuntimeException: DB error
+	at service.CoffeeService.sortByPricePerWeight(CoffeeService.java:60)
+	at view.SortCoffeeView.<init>(SortCoffeeView.java:20)
+	at view.SortCoffeeViewTest.testSortThrowsException(SortCoffeeViewTest.java:57)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.junit.platform.commons.util.ReflectionUtils.invokeMethod(ReflectionUtils.java:728)
+	at org.junit.jupiter.engine.execution.MethodInvocation.proceed(MethodInvocation.java:60)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain$ValidatingInvocation.proceed(InvocationInterceptorChain.java:131)
+	at org.junit.jupiter.engine.extension.TimeoutExtension.intercept(TimeoutExtension.java:156)
+	at org.junit.jupiter.engine.extension.TimeoutExtension.interceptTestableMethod(TimeoutExtension.java:147)
+	at org.junit.jupiter.engine.extension.TimeoutExtension.interceptTestMethod(TimeoutExtension.java:86)
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker$ReflectiveInterceptorCall.lambda$ofVoidMethod$0(InterceptingExecutableInvoker.java:103)
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker.lambda$invoke$0(InterceptingExecutableInvoker.java:93)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain$InterceptedInvocation.proceed(InvocationInterceptorChain.java:106)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.proceed(InvocationInterceptorChain.java:64)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.chainAndInvoke(InvocationInterceptorChain.java:45)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.invoke(InvocationInterceptorChain.java:37)
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker.invoke(InterceptingExecutableInvoker.java:92)
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker.invoke(InterceptingExecutableInvoker.java:86)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.lambda$invokeTestMethod$7(TestMethodTestDescriptor.java:218)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.invokeTestMethod(TestMethodTestDescriptor.java:214)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:139)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:69)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:151)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:155)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:155)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.submit(SameThreadHierarchicalTestExecutorService.java:35)
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestExecutor.execute(HierarchicalTestExecutor.java:57)
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestEngine.execute(HierarchicalTestEngine.java:54)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:198)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:169)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:93)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.lambda$execute$0(EngineExecutionOrchestrator.java:58)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.withInterceptedStreams(EngineExecutionOrchestrator.java:141)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:57)
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:103)
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:85)
+	at org.junit.platform.launcher.core.DelegatingLauncher.execute(DelegatingLauncher.java:47)
+	at org.junit.platform.launcher.core.SessionPerRequestLauncher.execute(SessionPerRequestLauncher.java:63)
+	at com.intellij.junit5.JUnit5IdeaTestRunner.startRunnerWithArgs(JUnit5IdeaTestRunner.java:57)
+	at com.intellij.rt.junit.IdeaTestRunner$Repeater$1.execute(IdeaTestRunner.java:38)
+	at com.intellij.rt.execution.junit.TestsRepeater.repeat(TestsRepeater.java:11)
+	at com.intellij.rt.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:35)
+	at com.intellij.rt.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:231)
+	at com.intellij.rt.junit.JUnitStarter.main(JUnitStarter.java:55)
+2025-05-19 00:10:26 INFO  [main] view.SortCoffeeView - Початок сортування кави за ціна/вага
+2025-05-19 00:10:26 INFO  [main] view.SortCoffeeView - Сортування завершено, знайдено 0 елементів
+2025-05-19 00:10:26 INFO  [JavaFX Application Thread] view.LoadedCoffeeView - Створення вікна завантажених товарів
+2025-05-19 00:10:26 INFO  [JavaFX Application Thread] view.LoadedCoffeeView - Завантажено 0 фургонів
+2025-05-19 00:10:26 INFO  [JavaFX Application Thread] view.LoadedCoffeeView - Обрано фургон ID=0 із 1 видами кави
+2025-05-19 00:10:27 INFO  [JavaFX Application Thread] view.LoadedCoffeeView - Створення вікна завантажених товарів
+2025-05-19 00:10:27 INFO  [JavaFX Application Thread] view.LoadedCoffeeView - Завантажено 0 фургонів
+2025-05-19 00:10:27 INFO  [JavaFX Application Thread] view.LoadedCoffeeView - Обрано фургон ID=0 із 0 видами кави
+2025-05-19 00:10:27 WARN  [JavaFX Application Thread] view.LoadedCoffeeView - Не вдалося видалити фургон ID=0
+2025-05-19 00:10:28 INFO  [JavaFX Application Thread] view.LoadedCoffeeView - Створення вікна завантажених товарів
+2025-05-19 00:10:28 INFO  [JavaFX Application Thread] view.LoadedCoffeeView - Завантажено 0 фургонів
+2025-05-19 00:10:28 ERROR [JavaFX Application Thread] view.LoadedCoffeeView - Помилка при завантаженні кави для фургона ID=0
+java.lang.RuntimeException: DB read fail
+	at database.TruckCoffeeDAO.getCoffeeForTruck(TruckCoffeeDAO.java:36)
+	at view.LoadedCoffeeView.lambda$new$1(LoadedCoffeeView.java:65)
+	at com.sun.javafx.binding.ExpressionHelper$SingleChange.fireValueChangedEvent(ExpressionHelper.java:192)
+	at com.sun.javafx.binding.ExpressionHelper.fireValueChangedEvent(ExpressionHelper.java:91)
+	at javafx.beans.property.ReadOnlyObjectPropertyBase.fireValueChangedEvent(ReadOnlyObjectPropertyBase.java:80)
+	at javafx.beans.property.ReadOnlyObjectWrapper.fireValueChangedEvent(ReadOnlyObjectWrapper.java:102)
+	at javafx.beans.property.ObjectPropertyBase.markInvalid(ObjectPropertyBase.java:113)
+	at javafx.beans.property.ObjectPropertyBase.set(ObjectPropertyBase.java:147)
+	at javafx.scene.control.SelectionModel.setSelectedItem(SelectionModel.java:105)
+	at javafx.scene.control.MultipleSelectionModelBase.select(MultipleSelectionModelBase.java:467)
+	at view.LoadedCoffeeViewTest.lambda$testTruckSelectionCoffeeLoadError$2(LoadedCoffeeViewTest.java:107)
+	at com.sun.javafx.application.PlatformImpl.lambda$runLater$10(PlatformImpl.java:456)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:400)
+	at com.sun.javafx.application.PlatformImpl.lambda$runLater$11(PlatformImpl.java:455)
+	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run$$$capture(InvokeLaterDispatcher.java:95)
+	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java)
+	at com.sun.glass.ui.win.WinApplication._enterNestedEventLoopImpl(Native Method)
+	at com.sun.glass.ui.win.WinApplication._enterNestedEventLoop(WinApplication.java:212)
+	at com.sun.glass.ui.Application.enterNestedEventLoop(Application.java:515)
+	at com.sun.glass.ui.EventLoop.enter(EventLoop.java:107)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.enterNestedEventLoop(QuantumToolkit.java:650)
+	at javafx.stage.Stage.showAndWait(Stage.java:469)
+	at javafx.scene.control.HeavyweightDialog.showAndWait(HeavyweightDialog.java:162)
+	at javafx.scene.control.Dialog.showAndWait(Dialog.java:346)
+	at view.LoadedCoffeeView.lambda$new$2(LoadedCoffeeView.java:97)
+	at com.sun.javafx.event.CompositeEventHandler.dispatchBubblingEvent(CompositeEventHandler.java:86)
+	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:232)
+	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:189)
+	at com.sun.javafx.event.CompositeEventDispatcher.dispatchBubblingEvent(CompositeEventDispatcher.java:59)
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:58)
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56)
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56)
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+	at com.sun.javafx.event.EventUtil.fireEventImpl(EventUtil.java:74)
+	at com.sun.javafx.event.EventUtil.fireEvent(EventUtil.java:54)
+	at javafx.event.Event.fireEvent(Event.java:198)
+	at javafx.scene.Node.fireEvent(Node.java:8875)
+	at javafx.scene.control.Button.fire(Button.java:203)
+	at view.LoadedCoffeeViewTest.lambda$testDeleteTruckFailure$4(LoadedCoffeeViewTest.java:140)
+	at com.sun.javafx.application.PlatformImpl.lambda$runLater$10(PlatformImpl.java:456)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:400)
+	at com.sun.javafx.application.PlatformImpl.lambda$runLater$11(PlatformImpl.java:455)
+	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run$$$capture(InvokeLaterDispatcher.java:95)
+	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java)
+	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at com.sun.glass.ui.win.WinApplication.lambda$runLoop$3(WinApplication.java:185)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+2025-05-19 00:10:29 INFO  [JavaFX Application Thread] view.LoadedCoffeeView - Створення вікна завантажених товарів
+2025-05-19 00:10:29 INFO  [JavaFX Application Thread] view.LoadedCoffeeView - Завантажено 0 фургонів
+2025-05-19 00:10:29 INFO  [JavaFX Application Thread] view.LoadedCoffeeView - Обрано фургон ID=0 із 0 видами кави
+2025-05-19 00:10:30 INFO  [JavaFX Application Thread] view.LoadedCoffeeView - Створення вікна завантажених товарів
+2025-05-19 00:10:30 INFO  [JavaFX Application Thread] view.LoadedCoffeeView - Завантажено 0 фургонів
+2025-05-19 00:10:30 INFO  [JavaFX Application Thread] view.LoadedCoffeeView - Обрано фургон ID=0 із 0 видами кави
+2025-05-19 00:10:30 ERROR [JavaFX Application Thread] view.LoadedCoffeeView - Помилка при видаленні фургона ID=0
+java.lang.RuntimeException: delete error
+	at database.TruckDAO.deleteTruckById(TruckDAO.java:56)
+	at view.LoadedCoffeeView.lambda$new$2(LoadedCoffeeView.java:87)
+	at com.sun.javafx.event.CompositeEventHandler.dispatchBubblingEvent(CompositeEventHandler.java:86)
+	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:232)
+	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:189)
+	at com.sun.javafx.event.CompositeEventDispatcher.dispatchBubblingEvent(CompositeEventDispatcher.java:59)
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:58)
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56)
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56)
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+	at com.sun.javafx.event.EventUtil.fireEventImpl(EventUtil.java:74)
+	at com.sun.javafx.event.EventUtil.fireEvent(EventUtil.java:49)
+	at javafx.event.Event.fireEvent(Event.java:198)
+	at javafx.scene.Node.fireEvent(Node.java:8875)
+	at javafx.scene.control.Button.fire(Button.java:203)
+	at view.LoadedCoffeeViewTest.lambda$testDeleteTruckException$5(LoadedCoffeeViewTest.java:157)
+	at com.sun.javafx.application.PlatformImpl.lambda$runLater$10(PlatformImpl.java:456)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:400)
+	at com.sun.javafx.application.PlatformImpl.lambda$runLater$11(PlatformImpl.java:455)
+	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run$$$capture(InvokeLaterDispatcher.java:95)
+	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java)
+	at com.sun.glass.ui.win.WinApplication._enterNestedEventLoopImpl(Native Method)
+	at com.sun.glass.ui.win.WinApplication._enterNestedEventLoop(WinApplication.java:212)
+	at com.sun.glass.ui.Application.enterNestedEventLoop(Application.java:515)
+	at com.sun.glass.ui.EventLoop.enter(EventLoop.java:107)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.enterNestedEventLoop(QuantumToolkit.java:650)
+	at javafx.stage.Stage.showAndWait(Stage.java:469)
+	at javafx.scene.control.HeavyweightDialog.showAndWait(HeavyweightDialog.java:162)
+	at javafx.scene.control.Dialog.showAndWait(Dialog.java:346)
+	at view.LoadedCoffeeView.lambda$new$2(LoadedCoffeeView.java:97)
+	at com.sun.javafx.event.CompositeEventHandler.dispatchBubblingEvent(CompositeEventHandler.java:86)
+	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:232)
+	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:189)
+	at com.sun.javafx.event.CompositeEventDispatcher.dispatchBubblingEvent(CompositeEventDispatcher.java:59)
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:58)
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56)
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56)
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+	at com.sun.javafx.event.EventUtil.fireEventImpl(EventUtil.java:74)
+	at com.sun.javafx.event.EventUtil.fireEvent(EventUtil.java:54)
+	at javafx.event.Event.fireEvent(Event.java:198)
+	at javafx.scene.Node.fireEvent(Node.java:8875)
+	at javafx.scene.control.Button.fire(Button.java:203)
+	at view.LoadedCoffeeViewTest.lambda$testDeleteTruckFailure$4(LoadedCoffeeViewTest.java:140)
+	at com.sun.javafx.application.PlatformImpl.lambda$runLater$10(PlatformImpl.java:456)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:400)
+	at com.sun.javafx.application.PlatformImpl.lambda$runLater$11(PlatformImpl.java:455)
+	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run$$$capture(InvokeLaterDispatcher.java:95)
+	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java)
+	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at com.sun.glass.ui.win.WinApplication.lambda$runLoop$3(WinApplication.java:185)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+2025-05-19 00:10:31 INFO  [JavaFX Application Thread] view.LoadedCoffeeView - Створення вікна завантажених товарів
+2025-05-19 00:10:31 INFO  [JavaFX Application Thread] view.LoadedCoffeeView - Завантажено 0 фургонів
+2025-05-19 00:10:31 INFO  [JavaFX Application Thread] view.LoadedCoffeeView - Створення вікна завантажених товарів
+2025-05-19 00:10:31 INFO  [JavaFX Application Thread] view.LoadedCoffeeView - Завантажено 0 фургонів
+2025-05-19 00:10:32 INFO  [JavaFX Application Thread] view.LoadedCoffeeView - Обрано фургон ID=0 із 0 видами кави
+2025-05-19 00:10:32 INFO  [JavaFX Application Thread] view.LoadedCoffeeView - Фургон ID=0 успішно видалено
+2025-05-19 00:10:34 WARN  [JavaFX Application Thread] view.LoadTruckView - Спроба створити фургон з неправильним форматом об'єму: abc
+2025-05-19 00:10:34 INFO  [JavaFX Application Thread] view.LoadTruckView - Фургон створено з об'ємом 150.5 л
+2025-05-19 00:10:35 WARN  [JavaFX Application Thread] view.LoadTruckView - Не обрано товар для завантаження
+2025-05-19 00:10:35 INFO  [JavaFX Application Thread] view.LoadTruckView - Фургон створено з об'ємом 100.0 л
+2025-05-19 00:10:35 INFO  [JavaFX Application Thread] view.LoadTruckView - Завантажено 2 од. кави 'Arabica' у фургон
+2025-05-19 00:10:36 INFO  [JavaFX Application Thread] view.LoadTruckView - Фургон створено з об'ємом 100.0 л
+2025-05-19 00:10:36 WARN  [JavaFX Application Thread] view.LoadTruckView - Недостатньо місця у фургоні для завантаження 2 од. кави 'Arabica'
+2025-05-19 00:10:36 INFO  [JavaFX Application Thread] view.LoadTruckView - Фургон створено з об'ємом 100.0 л
+2025-05-19 00:10:36 WARN  [JavaFX Application Thread] view.LoadTruckView - Неправильний формат кількості: abc
+2025-05-19 00:12:19 INFO  [JavaFX Application Thread] view.CoffeeApp - Запуск програми CoffeeApp
+2025-05-19 00:12:20 INFO  [JavaFX Application Thread] view.CoffeeApp - Базу даних ініціалізовано успішно
+2025-05-19 00:12:20 INFO  [JavaFX Application Thread] view.CoffeeApp - Фонове зображення завантажено успішно
+2025-05-19 00:12:20 INFO  [JavaFX Application Thread] view.CoffeeListView - Створення вікна списку кави
+2025-05-19 00:12:20 INFO  [JavaFX Application Thread] view.CoffeeListView - Успішно завантажено 0 товарів
+2025-05-19 00:12:20 INFO  [JavaFX Application Thread] view.CoffeeApp - Початковий екран завантажено
+2025-05-19 00:12:21 INFO  [JavaFX Application Thread] view.CoffeeApp - Головне вікно показано
+2025-05-19 00:12:22 INFO  [JavaFX Application Thread] view.SortCoffeeView - Початок сортування кави за ціна/вага
+2025-05-19 00:12:22 INFO  [JavaFX Application Thread] view.SortCoffeeView - Сортування завершено, знайдено 0 елементів
+2025-05-19 00:12:22 INFO  [JavaFX Application Thread] view.CoffeeApp - Сортування кави відкрите
+2025-05-19 00:12:22 INFO  [JavaFX Application Thread] view.CoffeeApp - Запуск програми CoffeeApp
+2025-05-19 00:12:22 INFO  [JavaFX Application Thread] view.CoffeeApp - Базу даних ініціалізовано успішно
+2025-05-19 00:12:22 INFO  [JavaFX Application Thread] view.CoffeeApp - Фонове зображення завантажено успішно
+2025-05-19 00:12:22 INFO  [JavaFX Application Thread] view.CoffeeListView - Створення вікна списку кави
+2025-05-19 00:12:22 INFO  [JavaFX Application Thread] view.CoffeeListView - Успішно завантажено 0 товарів
+2025-05-19 00:12:22 INFO  [JavaFX Application Thread] view.CoffeeApp - Початковий екран завантажено
+2025-05-19 00:12:22 INFO  [JavaFX Application Thread] view.CoffeeApp - Головне вікно показано
+2025-05-19 00:12:22 INFO  [JavaFX Application Thread] view.CoffeeApp - Форма додавання кави відкрита
+2025-05-19 00:12:23 INFO  [JavaFX Application Thread] view.CoffeeApp - Запуск програми CoffeeApp
+2025-05-19 00:12:23 INFO  [JavaFX Application Thread] view.CoffeeApp - Базу даних ініціалізовано успішно
+2025-05-19 00:12:23 INFO  [JavaFX Application Thread] view.CoffeeApp - Фонове зображення завантажено успішно
+2025-05-19 00:12:23 INFO  [JavaFX Application Thread] view.CoffeeListView - Створення вікна списку кави
+2025-05-19 00:12:23 INFO  [JavaFX Application Thread] view.CoffeeListView - Успішно завантажено 0 товарів
+2025-05-19 00:12:23 INFO  [JavaFX Application Thread] view.CoffeeApp - Початковий екран завантажено
+2025-05-19 00:12:23 INFO  [JavaFX Application Thread] view.CoffeeApp - Головне вікно показано
+2025-05-19 00:12:24 INFO  [JavaFX Application Thread] view.CoffeeApp - Пошук кави відкрито
+2025-05-19 00:12:24 INFO  [JavaFX Application Thread] view.CoffeeApp - Запуск програми CoffeeApp
+2025-05-19 00:12:24 INFO  [JavaFX Application Thread] view.CoffeeApp - Базу даних ініціалізовано успішно
+2025-05-19 00:12:24 INFO  [JavaFX Application Thread] view.CoffeeApp - Фонове зображення завантажено успішно
+2025-05-19 00:12:24 INFO  [JavaFX Application Thread] view.CoffeeListView - Створення вікна списку кави
+2025-05-19 00:12:24 INFO  [JavaFX Application Thread] view.CoffeeListView - Успішно завантажено 0 товарів
+2025-05-19 00:12:24 INFO  [JavaFX Application Thread] view.CoffeeApp - Початковий екран завантажено
+2025-05-19 00:12:24 INFO  [JavaFX Application Thread] view.CoffeeApp - Головне вікно показано
+2025-05-19 00:12:24 INFO  [JavaFX Application Thread] view.LoadedCoffeeView - Створення вікна завантажених товарів
+2025-05-19 00:12:25 INFO  [JavaFX Application Thread] view.LoadedCoffeeView - Завантажено 0 фургонів
+2025-05-19 00:12:25 INFO  [JavaFX Application Thread] view.CoffeeApp - Перегляд завантажених товарів відкрито
+2025-05-19 00:12:25 INFO  [JavaFX Application Thread] view.CoffeeApp - Запуск програми CoffeeApp
+2025-05-19 00:12:25 INFO  [JavaFX Application Thread] view.CoffeeApp - Базу даних ініціалізовано успішно
+2025-05-19 00:12:25 INFO  [JavaFX Application Thread] view.CoffeeApp - Фонове зображення завантажено успішно
+2025-05-19 00:12:25 INFO  [JavaFX Application Thread] view.CoffeeListView - Створення вікна списку кави
+2025-05-19 00:12:25 INFO  [JavaFX Application Thread] view.CoffeeListView - Успішно завантажено 0 товарів
+2025-05-19 00:12:25 INFO  [JavaFX Application Thread] view.CoffeeApp - Початковий екран завантажено
+2025-05-19 00:12:25 INFO  [JavaFX Application Thread] view.CoffeeApp - Головне вікно показано
+2025-05-19 00:12:26 INFO  [JavaFX Application Thread] view.CoffeeApp - Завантаження фургону відкрите
+2025-05-19 00:12:26 INFO  [JavaFX Application Thread] view.CoffeeApp - Запуск програми CoffeeApp
+2025-05-19 00:12:26 INFO  [JavaFX Application Thread] view.CoffeeApp - Базу даних ініціалізовано успішно
+2025-05-19 00:12:27 INFO  [JavaFX Application Thread] view.CoffeeApp - Фонове зображення завантажено успішно
+2025-05-19 00:12:27 INFO  [JavaFX Application Thread] view.CoffeeListView - Створення вікна списку кави
+2025-05-19 00:12:27 INFO  [JavaFX Application Thread] view.CoffeeListView - Успішно завантажено 0 товарів
+2025-05-19 00:12:27 INFO  [JavaFX Application Thread] view.CoffeeApp - Початковий екран завантажено
+2025-05-19 00:12:27 INFO  [JavaFX Application Thread] view.CoffeeApp - Головне вікно показано
+2025-05-19 00:12:27 INFO  [JavaFX Application Thread] view.CoffeeListView - Створення вікна списку кави
+2025-05-19 00:12:27 INFO  [JavaFX Application Thread] view.CoffeeListView - Успішно завантажено 0 товарів
+2025-05-19 00:12:27 INFO  [JavaFX Application Thread] view.CoffeeApp - Перегляд товарів відкрито
+2025-05-19 00:12:27 INFO  [JavaFX Application Thread] view.CoffeeApp - Запуск програми CoffeeApp
+2025-05-19 00:12:28 INFO  [JavaFX Application Thread] view.CoffeeApp - Базу даних ініціалізовано успішно
+2025-05-19 00:12:28 INFO  [JavaFX Application Thread] view.CoffeeApp - Фонове зображення завантажено успішно
+2025-05-19 00:12:28 INFO  [JavaFX Application Thread] view.CoffeeListView - Створення вікна списку кави
+2025-05-19 00:12:28 INFO  [JavaFX Application Thread] view.CoffeeListView - Успішно завантажено 0 товарів
+2025-05-19 00:12:28 INFO  [JavaFX Application Thread] view.CoffeeApp - Початковий екран завантажено
+2025-05-19 00:12:28 INFO  [JavaFX Application Thread] view.CoffeeApp - Головне вікно показано
+2025-05-19 00:12:28 INFO  [JavaFX Application Thread] view.CoffeeApp - Програма завершена користувачем
+2025-05-19 00:12:33 ERROR [JavaFX Application Thread] view.AddCoffeeView - Помилка при додаванні кави
+java.lang.NumberFormatException: For input string: "bad_number"
+	at java.base/jdk.internal.math.FloatingDecimal.readJavaFormatString(FloatingDecimal.java:2054)
+	at java.base/jdk.internal.math.FloatingDecimal.parseDouble(FloatingDecimal.java:110)
+	at java.base/java.lang.Double.parseDouble(Double.java:792)
+	at view.AddCoffeeView.lambda$new$0(AddCoffeeView.java:44)
+	at com.sun.javafx.event.CompositeEventHandler.dispatchBubblingEvent(CompositeEventHandler.java:86)
+	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:232)
+	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:189)
+	at com.sun.javafx.event.CompositeEventDispatcher.dispatchBubblingEvent(CompositeEventDispatcher.java:59)
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:58)
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+	at com.sun.javafx.event.EventUtil.fireEventImpl(EventUtil.java:74)
+	at com.sun.javafx.event.EventUtil.fireEvent(EventUtil.java:54)
+	at javafx.event.Event.fireEvent(Event.java:198)
+	at javafx.scene.Node.fireEvent(Node.java:8875)
+	at javafx.scene.control.Button.fire(Button.java:203)
+	at view.AddCoffeeViewTest.lambda$testAddCoffeeView_InvalidInput_ShowsError$1(AddCoffeeViewTest.java:76)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.base/java.util.concurrent.FutureTask.run$$$capture(FutureTask.java:317)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java)
+	at com.sun.javafx.application.PlatformImpl.lambda$runLater$10(PlatformImpl.java:456)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:400)
+	at com.sun.javafx.application.PlatformImpl.lambda$runLater$11(PlatformImpl.java:455)
+	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run$$$capture(InvokeLaterDispatcher.java:95)
+	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java)
+	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at com.sun.glass.ui.win.WinApplication.lambda$runLoop$3(WinApplication.java:185)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+2025-05-19 00:12:33 INFO  [JavaFX Application Thread] view.AddCoffeeView - Кава успішно додана: Кава [Тип: Зернова, Пакування: Банка, Об'єм: 1,10 л, Вага: 2,00 кг, Цiна: 150,00 грн]
+2025-05-19 00:12:34 INFO  [JavaFX Application Thread] view.AddCoffeeView - Кава успішно додана: Кава [Тип: Розчинна, Пакування: Пачка, Об'єм: 1,05 л, Вага: 1,00 кг, Цiна: 100,00 грн]
+2025-05-19 00:12:36 INFO  [main] view.CoffeeListView - Створення вікна списку кави
+2025-05-19 00:12:36 ERROR [main] view.CoffeeListView - Помилка при завантаженні списку кави
+java.lang.RuntimeException: DB error
+	at service.CoffeeService.getAllCoffees(CoffeeService.java:56)
+	at view.CoffeeListView.<init>(CoffeeListView.java:19)
+	at view.CoffeeListViewTest.testCoffeeListViewHandlesExceptionGracefully(CoffeeListViewTest.java:64)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.junit.platform.commons.util.ReflectionUtils.invokeMethod(ReflectionUtils.java:728)
+	at org.junit.jupiter.engine.execution.MethodInvocation.proceed(MethodInvocation.java:60)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain$ValidatingInvocation.proceed(InvocationInterceptorChain.java:131)
+	at org.junit.jupiter.engine.extension.TimeoutExtension.intercept(TimeoutExtension.java:156)
+	at org.junit.jupiter.engine.extension.TimeoutExtension.interceptTestableMethod(TimeoutExtension.java:147)
+	at org.junit.jupiter.engine.extension.TimeoutExtension.interceptTestMethod(TimeoutExtension.java:86)
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker$ReflectiveInterceptorCall.lambda$ofVoidMethod$0(InterceptingExecutableInvoker.java:103)
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker.lambda$invoke$0(InterceptingExecutableInvoker.java:93)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain$InterceptedInvocation.proceed(InvocationInterceptorChain.java:106)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.proceed(InvocationInterceptorChain.java:64)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.chainAndInvoke(InvocationInterceptorChain.java:45)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.invoke(InvocationInterceptorChain.java:37)
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker.invoke(InterceptingExecutableInvoker.java:92)
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker.invoke(InterceptingExecutableInvoker.java:86)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.lambda$invokeTestMethod$7(TestMethodTestDescriptor.java:218)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.invokeTestMethod(TestMethodTestDescriptor.java:214)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:139)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:69)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:151)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:155)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:155)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.submit(SameThreadHierarchicalTestExecutorService.java:35)
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestExecutor.execute(HierarchicalTestExecutor.java:57)
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestEngine.execute(HierarchicalTestEngine.java:54)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:198)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:169)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:93)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.lambda$execute$0(EngineExecutionOrchestrator.java:58)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.withInterceptedStreams(EngineExecutionOrchestrator.java:141)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:57)
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:103)
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:85)
+	at org.junit.platform.launcher.core.DelegatingLauncher.execute(DelegatingLauncher.java:47)
+	at org.junit.platform.launcher.core.SessionPerRequestLauncher.execute(SessionPerRequestLauncher.java:63)
+	at com.intellij.junit5.JUnit5IdeaTestRunner.startRunnerWithArgs(JUnit5IdeaTestRunner.java:57)
+	at com.intellij.rt.junit.IdeaTestRunner$Repeater$1.execute(IdeaTestRunner.java:38)
+	at com.intellij.rt.execution.junit.TestsRepeater.repeat(TestsRepeater.java:11)
+	at com.intellij.rt.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:35)
+	at com.intellij.rt.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:231)
+	at com.intellij.rt.junit.JUnitStarter.main(JUnitStarter.java:55)
+2025-05-19 00:12:36 INFO  [main] view.CoffeeListView - Створення вікна списку кави
+2025-05-19 00:12:36 INFO  [main] view.CoffeeListView - Успішно завантажено 2 товарів
+2025-05-19 00:12:36 INFO  [main] view.CoffeeListView - Створення вікна списку кави
+2025-05-19 00:12:36 INFO  [main] view.CoffeeListView - Успішно завантажено 0 товарів
+2025-05-19 00:12:36 WARN  [main] view.SearchCoffeeView - Некоректний формат введених даних для пошуку кави: For input string: "a"
+2025-05-19 00:12:36 INFO  [main] view.SearchCoffeeView - Пошук кави за параметрами: вага від 100.0 до 300.0, ціна від 20.0 до 35.0
+2025-05-19 00:12:36 INFO  [main] view.SearchCoffeeView - Пошук кави за параметрами: вага від 10.0 до 20.0, ціна від 5.0 до 15.0
+2025-05-19 00:12:37 INFO  [main] view.SearchCoffeeView - Пошук кави за параметрами: вага від 10.0 до 20.0, ціна від 5.0 до 15.0
+2025-05-19 00:12:37 ERROR [main] view.SearchCoffeeView - Критична помилка при пошуку кави
+java.lang.RuntimeException: DB Error
+	at service.CoffeeService.findByQuality(CoffeeService.java:66)
+	at view.SearchCoffeeView.lambda$new$0(SearchCoffeeView.java:50)
+	at com.sun.javafx.event.CompositeEventHandler.dispatchBubblingEvent(CompositeEventHandler.java:86)
+	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:232)
+	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:189)
+	at com.sun.javafx.event.CompositeEventDispatcher.dispatchBubblingEvent(CompositeEventDispatcher.java:59)
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:58)
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+	at com.sun.javafx.event.EventUtil.fireEventImpl(EventUtil.java:74)
+	at com.sun.javafx.event.EventUtil.fireEvent(EventUtil.java:54)
+	at javafx.event.Event.fireEvent(Event.java:198)
+	at javafx.scene.Node.fireEvent(Node.java:8875)
+	at javafx.scene.control.Button.fire(Button.java:203)
+	at view.SearchCoffeeViewTest.testSearchWithExceptionInService(SearchCoffeeViewTest.java:91)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.junit.platform.commons.util.ReflectionUtils.invokeMethod(ReflectionUtils.java:728)
+	at org.junit.jupiter.engine.execution.MethodInvocation.proceed(MethodInvocation.java:60)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain$ValidatingInvocation.proceed(InvocationInterceptorChain.java:131)
+	at org.junit.jupiter.engine.extension.TimeoutExtension.intercept(TimeoutExtension.java:156)
+	at org.junit.jupiter.engine.extension.TimeoutExtension.interceptTestableMethod(TimeoutExtension.java:147)
+	at org.junit.jupiter.engine.extension.TimeoutExtension.interceptTestMethod(TimeoutExtension.java:86)
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker$ReflectiveInterceptorCall.lambda$ofVoidMethod$0(InterceptingExecutableInvoker.java:103)
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker.lambda$invoke$0(InterceptingExecutableInvoker.java:93)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain$InterceptedInvocation.proceed(InvocationInterceptorChain.java:106)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.proceed(InvocationInterceptorChain.java:64)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.chainAndInvoke(InvocationInterceptorChain.java:45)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.invoke(InvocationInterceptorChain.java:37)
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker.invoke(InterceptingExecutableInvoker.java:92)
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker.invoke(InterceptingExecutableInvoker.java:86)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.lambda$invokeTestMethod$7(TestMethodTestDescriptor.java:218)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.invokeTestMethod(TestMethodTestDescriptor.java:214)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:139)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:69)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:151)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:155)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:155)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.submit(SameThreadHierarchicalTestExecutorService.java:35)
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestExecutor.execute(HierarchicalTestExecutor.java:57)
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestEngine.execute(HierarchicalTestEngine.java:54)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:198)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:169)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:93)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.lambda$execute$0(EngineExecutionOrchestrator.java:58)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.withInterceptedStreams(EngineExecutionOrchestrator.java:141)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:57)
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:103)
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:85)
+	at org.junit.platform.launcher.core.DelegatingLauncher.execute(DelegatingLauncher.java:47)
+	at org.junit.platform.launcher.core.SessionPerRequestLauncher.execute(SessionPerRequestLauncher.java:63)
+	at com.intellij.junit5.JUnit5IdeaTestRunner.startRunnerWithArgs(JUnit5IdeaTestRunner.java:57)
+	at com.intellij.rt.junit.IdeaTestRunner$Repeater$1.execute(IdeaTestRunner.java:38)
+	at com.intellij.rt.execution.junit.TestsRepeater.repeat(TestsRepeater.java:11)
+	at com.intellij.rt.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:35)
+	at com.intellij.rt.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:231)
+	at com.intellij.rt.junit.JUnitStarter.main(JUnitStarter.java:55)
+2025-05-19 00:12:37 INFO  [main] view.SortCoffeeView - Початок сортування кави за ціна/вага
+2025-05-19 00:12:37 INFO  [main] view.SortCoffeeView - Сортування завершено, знайдено 2 елементів
+2025-05-19 00:12:37 INFO  [main] view.SortCoffeeView - Початок сортування кави за ціна/вага
+2025-05-19 00:12:37 ERROR [main] view.SortCoffeeView - Помилка при сортуванні кави за ціна/вага
+java.lang.RuntimeException: DB error
+	at service.CoffeeService.sortByPricePerWeight(CoffeeService.java:60)
+	at view.SortCoffeeView.<init>(SortCoffeeView.java:20)
+	at view.SortCoffeeViewTest.testSortThrowsException(SortCoffeeViewTest.java:57)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.junit.platform.commons.util.ReflectionUtils.invokeMethod(ReflectionUtils.java:728)
+	at org.junit.jupiter.engine.execution.MethodInvocation.proceed(MethodInvocation.java:60)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain$ValidatingInvocation.proceed(InvocationInterceptorChain.java:131)
+	at org.junit.jupiter.engine.extension.TimeoutExtension.intercept(TimeoutExtension.java:156)
+	at org.junit.jupiter.engine.extension.TimeoutExtension.interceptTestableMethod(TimeoutExtension.java:147)
+	at org.junit.jupiter.engine.extension.TimeoutExtension.interceptTestMethod(TimeoutExtension.java:86)
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker$ReflectiveInterceptorCall.lambda$ofVoidMethod$0(InterceptingExecutableInvoker.java:103)
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker.lambda$invoke$0(InterceptingExecutableInvoker.java:93)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain$InterceptedInvocation.proceed(InvocationInterceptorChain.java:106)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.proceed(InvocationInterceptorChain.java:64)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.chainAndInvoke(InvocationInterceptorChain.java:45)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.invoke(InvocationInterceptorChain.java:37)
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker.invoke(InterceptingExecutableInvoker.java:92)
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker.invoke(InterceptingExecutableInvoker.java:86)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.lambda$invokeTestMethod$7(TestMethodTestDescriptor.java:218)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.invokeTestMethod(TestMethodTestDescriptor.java:214)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:139)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:69)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:151)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:155)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:155)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.submit(SameThreadHierarchicalTestExecutorService.java:35)
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestExecutor.execute(HierarchicalTestExecutor.java:57)
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestEngine.execute(HierarchicalTestEngine.java:54)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:198)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:169)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:93)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.lambda$execute$0(EngineExecutionOrchestrator.java:58)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.withInterceptedStreams(EngineExecutionOrchestrator.java:141)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:57)
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:103)
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:85)
+	at org.junit.platform.launcher.core.DelegatingLauncher.execute(DelegatingLauncher.java:47)
+	at org.junit.platform.launcher.core.SessionPerRequestLauncher.execute(SessionPerRequestLauncher.java:63)
+	at com.intellij.junit5.JUnit5IdeaTestRunner.startRunnerWithArgs(JUnit5IdeaTestRunner.java:57)
+	at com.intellij.rt.junit.IdeaTestRunner$Repeater$1.execute(IdeaTestRunner.java:38)
+	at com.intellij.rt.execution.junit.TestsRepeater.repeat(TestsRepeater.java:11)
+	at com.intellij.rt.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:35)
+	at com.intellij.rt.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:231)
+	at com.intellij.rt.junit.JUnitStarter.main(JUnitStarter.java:55)
+2025-05-19 00:12:37 INFO  [main] view.SortCoffeeView - Початок сортування кави за ціна/вага
+2025-05-19 00:12:38 INFO  [main] view.SortCoffeeView - Сортування завершено, знайдено 0 елементів
+2025-05-19 00:12:38 INFO  [JavaFX Application Thread] view.LoadedCoffeeView - Створення вікна завантажених товарів
+2025-05-19 00:12:38 INFO  [JavaFX Application Thread] view.LoadedCoffeeView - Завантажено 0 фургонів
+2025-05-19 00:12:38 INFO  [JavaFX Application Thread] view.LoadedCoffeeView - Обрано фургон ID=0 із 1 видами кави
+2025-05-19 00:12:39 INFO  [JavaFX Application Thread] view.LoadedCoffeeView - Створення вікна завантажених товарів
+2025-05-19 00:12:39 INFO  [JavaFX Application Thread] view.LoadedCoffeeView - Завантажено 0 фургонів
+2025-05-19 00:12:39 INFO  [JavaFX Application Thread] view.LoadedCoffeeView - Обрано фургон ID=0 із 0 видами кави
+2025-05-19 00:12:39 WARN  [JavaFX Application Thread] view.LoadedCoffeeView - Не вдалося видалити фургон ID=0
+2025-05-19 00:12:40 INFO  [JavaFX Application Thread] view.LoadedCoffeeView - Створення вікна завантажених товарів
+2025-05-19 00:12:40 INFO  [JavaFX Application Thread] view.LoadedCoffeeView - Завантажено 0 фургонів
+2025-05-19 00:12:40 ERROR [JavaFX Application Thread] view.LoadedCoffeeView - Помилка при завантаженні кави для фургона ID=0
+java.lang.RuntimeException: DB read fail
+	at database.TruckCoffeeDAO.getCoffeeForTruck(TruckCoffeeDAO.java:36)
+	at view.LoadedCoffeeView.lambda$new$1(LoadedCoffeeView.java:65)
+	at com.sun.javafx.binding.ExpressionHelper$SingleChange.fireValueChangedEvent(ExpressionHelper.java:192)
+	at com.sun.javafx.binding.ExpressionHelper.fireValueChangedEvent(ExpressionHelper.java:91)
+	at javafx.beans.property.ReadOnlyObjectPropertyBase.fireValueChangedEvent(ReadOnlyObjectPropertyBase.java:80)
+	at javafx.beans.property.ReadOnlyObjectWrapper.fireValueChangedEvent(ReadOnlyObjectWrapper.java:102)
+	at javafx.beans.property.ObjectPropertyBase.markInvalid(ObjectPropertyBase.java:113)
+	at javafx.beans.property.ObjectPropertyBase.set(ObjectPropertyBase.java:147)
+	at javafx.scene.control.SelectionModel.setSelectedItem(SelectionModel.java:105)
+	at javafx.scene.control.MultipleSelectionModelBase.select(MultipleSelectionModelBase.java:467)
+	at view.LoadedCoffeeViewTest.lambda$testTruckSelectionCoffeeLoadError$2(LoadedCoffeeViewTest.java:107)
+	at com.sun.javafx.application.PlatformImpl.lambda$runLater$10(PlatformImpl.java:456)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:400)
+	at com.sun.javafx.application.PlatformImpl.lambda$runLater$11(PlatformImpl.java:455)
+	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run$$$capture(InvokeLaterDispatcher.java:95)
+	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java)
+	at com.sun.glass.ui.win.WinApplication._enterNestedEventLoopImpl(Native Method)
+	at com.sun.glass.ui.win.WinApplication._enterNestedEventLoop(WinApplication.java:212)
+	at com.sun.glass.ui.Application.enterNestedEventLoop(Application.java:515)
+	at com.sun.glass.ui.EventLoop.enter(EventLoop.java:107)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.enterNestedEventLoop(QuantumToolkit.java:650)
+	at javafx.stage.Stage.showAndWait(Stage.java:469)
+	at javafx.scene.control.HeavyweightDialog.showAndWait(HeavyweightDialog.java:162)
+	at javafx.scene.control.Dialog.showAndWait(Dialog.java:346)
+	at view.LoadedCoffeeView.lambda$new$2(LoadedCoffeeView.java:97)
+	at com.sun.javafx.event.CompositeEventHandler.dispatchBubblingEvent(CompositeEventHandler.java:86)
+	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:232)
+	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:189)
+	at com.sun.javafx.event.CompositeEventDispatcher.dispatchBubblingEvent(CompositeEventDispatcher.java:59)
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:58)
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56)
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56)
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+	at com.sun.javafx.event.EventUtil.fireEventImpl(EventUtil.java:74)
+	at com.sun.javafx.event.EventUtil.fireEvent(EventUtil.java:54)
+	at javafx.event.Event.fireEvent(Event.java:198)
+	at javafx.scene.Node.fireEvent(Node.java:8875)
+	at javafx.scene.control.Button.fire(Button.java:203)
+	at view.LoadedCoffeeViewTest.lambda$testDeleteTruckFailure$4(LoadedCoffeeViewTest.java:140)
+	at com.sun.javafx.application.PlatformImpl.lambda$runLater$10(PlatformImpl.java:456)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:400)
+	at com.sun.javafx.application.PlatformImpl.lambda$runLater$11(PlatformImpl.java:455)
+	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run$$$capture(InvokeLaterDispatcher.java:95)
+	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java)
+	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at com.sun.glass.ui.win.WinApplication.lambda$runLoop$3(WinApplication.java:185)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+2025-05-19 00:12:41 INFO  [JavaFX Application Thread] view.LoadedCoffeeView - Створення вікна завантажених товарів
+2025-05-19 00:12:41 INFO  [JavaFX Application Thread] view.LoadedCoffeeView - Завантажено 0 фургонів
+2025-05-19 00:12:41 INFO  [JavaFX Application Thread] view.LoadedCoffeeView - Обрано фургон ID=0 із 0 видами кави
+2025-05-19 00:12:42 INFO  [JavaFX Application Thread] view.LoadedCoffeeView - Створення вікна завантажених товарів
+2025-05-19 00:12:42 INFO  [JavaFX Application Thread] view.LoadedCoffeeView - Завантажено 0 фургонів
+2025-05-19 00:12:42 INFO  [JavaFX Application Thread] view.LoadedCoffeeView - Обрано фургон ID=0 із 0 видами кави
+2025-05-19 00:12:42 ERROR [JavaFX Application Thread] view.LoadedCoffeeView - Помилка при видаленні фургона ID=0
+java.lang.RuntimeException: delete error
+	at database.TruckDAO.deleteTruckById(TruckDAO.java:56)
+	at view.LoadedCoffeeView.lambda$new$2(LoadedCoffeeView.java:87)
+	at com.sun.javafx.event.CompositeEventHandler.dispatchBubblingEvent(CompositeEventHandler.java:86)
+	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:232)
+	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:189)
+	at com.sun.javafx.event.CompositeEventDispatcher.dispatchBubblingEvent(CompositeEventDispatcher.java:59)
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:58)
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56)
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56)
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+	at com.sun.javafx.event.EventUtil.fireEventImpl(EventUtil.java:74)
+	at com.sun.javafx.event.EventUtil.fireEvent(EventUtil.java:49)
+	at javafx.event.Event.fireEvent(Event.java:198)
+	at javafx.scene.Node.fireEvent(Node.java:8875)
+	at javafx.scene.control.Button.fire(Button.java:203)
+	at view.LoadedCoffeeViewTest.lambda$testDeleteTruckException$5(LoadedCoffeeViewTest.java:157)
+	at com.sun.javafx.application.PlatformImpl.lambda$runLater$10(PlatformImpl.java:456)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:400)
+	at com.sun.javafx.application.PlatformImpl.lambda$runLater$11(PlatformImpl.java:455)
+	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run$$$capture(InvokeLaterDispatcher.java:95)
+	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java)
+	at com.sun.glass.ui.win.WinApplication._enterNestedEventLoopImpl(Native Method)
+	at com.sun.glass.ui.win.WinApplication._enterNestedEventLoop(WinApplication.java:212)
+	at com.sun.glass.ui.Application.enterNestedEventLoop(Application.java:515)
+	at com.sun.glass.ui.EventLoop.enter(EventLoop.java:107)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.enterNestedEventLoop(QuantumToolkit.java:650)
+	at javafx.stage.Stage.showAndWait(Stage.java:469)
+	at javafx.scene.control.HeavyweightDialog.showAndWait(HeavyweightDialog.java:162)
+	at javafx.scene.control.Dialog.showAndWait(Dialog.java:346)
+	at view.LoadedCoffeeView.lambda$new$2(LoadedCoffeeView.java:97)
+	at com.sun.javafx.event.CompositeEventHandler.dispatchBubblingEvent(CompositeEventHandler.java:86)
+	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:232)
+	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:189)
+	at com.sun.javafx.event.CompositeEventDispatcher.dispatchBubblingEvent(CompositeEventDispatcher.java:59)
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:58)
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56)
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56)
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+	at com.sun.javafx.event.EventUtil.fireEventImpl(EventUtil.java:74)
+	at com.sun.javafx.event.EventUtil.fireEvent(EventUtil.java:54)
+	at javafx.event.Event.fireEvent(Event.java:198)
+	at javafx.scene.Node.fireEvent(Node.java:8875)
+	at javafx.scene.control.Button.fire(Button.java:203)
+	at view.LoadedCoffeeViewTest.lambda$testDeleteTruckFailure$4(LoadedCoffeeViewTest.java:140)
+	at com.sun.javafx.application.PlatformImpl.lambda$runLater$10(PlatformImpl.java:456)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:400)
+	at com.sun.javafx.application.PlatformImpl.lambda$runLater$11(PlatformImpl.java:455)
+	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run$$$capture(InvokeLaterDispatcher.java:95)
+	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java)
+	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at com.sun.glass.ui.win.WinApplication.lambda$runLoop$3(WinApplication.java:185)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+2025-05-19 00:12:43 INFO  [JavaFX Application Thread] view.LoadedCoffeeView - Створення вікна завантажених товарів
+2025-05-19 00:12:43 INFO  [JavaFX Application Thread] view.LoadedCoffeeView - Завантажено 0 фургонів
+2025-05-19 00:12:43 INFO  [JavaFX Application Thread] view.LoadedCoffeeView - Створення вікна завантажених товарів
+2025-05-19 00:12:43 INFO  [JavaFX Application Thread] view.LoadedCoffeeView - Завантажено 0 фургонів
+2025-05-19 00:12:44 INFO  [JavaFX Application Thread] view.LoadedCoffeeView - Обрано фургон ID=0 із 0 видами кави
+2025-05-19 00:12:44 INFO  [JavaFX Application Thread] view.LoadedCoffeeView - Фургон ID=0 успішно видалено
+2025-05-19 00:12:46 WARN  [JavaFX Application Thread] view.LoadTruckView - Спроба створити фургон з неправильним форматом об'єму: abc
+2025-05-19 00:12:46 INFO  [JavaFX Application Thread] view.LoadTruckView - Фургон створено з об'ємом 150.5 л
+2025-05-19 00:12:47 WARN  [JavaFX Application Thread] view.LoadTruckView - Не обрано товар для завантаження
+2025-05-19 00:12:47 INFO  [JavaFX Application Thread] view.LoadTruckView - Фургон створено з об'ємом 100.0 л
+2025-05-19 00:12:47 INFO  [JavaFX Application Thread] view.LoadTruckView - Завантажено 2 од. кави 'Arabica' у фургон
+2025-05-19 00:12:48 INFO  [JavaFX Application Thread] view.LoadTruckView - Фургон створено з об'ємом 100.0 л
+2025-05-19 00:12:48 WARN  [JavaFX Application Thread] view.LoadTruckView - Недостатньо місця у фургоні для завантаження 2 од. кави 'Arabica'
+2025-05-19 00:12:48 INFO  [JavaFX Application Thread] view.LoadTruckView - Фургон створено з об'ємом 100.0 л
+2025-05-19 00:12:48 WARN  [JavaFX Application Thread] view.LoadTruckView - Неправильний формат кількості: abc
+2025-05-21 21:57:27 INFO  [JavaFX Application Thread] view.CoffeeApp - Запуск програми CoffeeApp
+2025-05-21 21:57:27 INFO  [JavaFX Application Thread] view.CoffeeApp - Базу даних ініціалізовано успішно
+2025-05-21 21:57:28 INFO  [JavaFX Application Thread] view.CoffeeApp - Фонове зображення завантажено успішно
+2025-05-21 21:57:28 INFO  [JavaFX Application Thread] view.CoffeeListView - Створення вікна списку кави
+2025-05-21 21:57:28 INFO  [JavaFX Application Thread] view.CoffeeListView - Успішно завантажено 3 товарів
+2025-05-21 21:57:28 INFO  [JavaFX Application Thread] view.CoffeeApp - Початковий екран завантажено
+2025-05-21 21:57:28 INFO  [JavaFX Application Thread] view.CoffeeApp - Головне вікно показано
+2025-05-21 21:57:30 INFO  [JavaFX Application Thread] view.CoffeeApp - Форма додавання кави відкрита
+2025-05-21 22:10:38 INFO  [JavaFX Application Thread] view.CoffeeListView - Створення вікна списку кави
+2025-05-21 22:10:38 INFO  [JavaFX Application Thread] view.CoffeeListView - Успішно завантажено 3 товарів
+2025-05-21 22:10:38 INFO  [JavaFX Application Thread] view.CoffeeApp - Перегляд товарів відкрито
+2025-05-21 22:18:11 INFO  [JavaFX Application Thread] view.CoffeeListView - Створення вікна списку кави
+2025-05-21 22:18:11 INFO  [JavaFX Application Thread] view.CoffeeListView - Успішно завантажено 3 товарів
+2025-05-21 22:18:11 INFO  [JavaFX Application Thread] view.CoffeeApp - Перегляд товарів відкрито
+2025-05-21 22:35:56 INFO  [JavaFX Application Thread] view.SortCoffeeView - Початок сортування кави за ціна/вага
+2025-05-21 22:35:56 INFO  [JavaFX Application Thread] view.SortCoffeeView - Сортування завершено, знайдено 3 елементів
+2025-05-21 22:35:56 INFO  [JavaFX Application Thread] view.CoffeeApp - Сортування кави відкрите
+2025-05-21 22:35:59 INFO  [JavaFX Application Thread] view.CoffeeApp - Пошук кави відкрито
+2025-05-21 22:35:59 INFO  [JavaFX Application Thread] view.LoadedCoffeeView - Створення вікна завантажених товарів
+2025-05-21 22:35:59 INFO  [JavaFX Application Thread] view.LoadedCoffeeView - Завантажено 0 фургонів
+2025-05-21 22:35:59 INFO  [JavaFX Application Thread] view.CoffeeApp - Перегляд завантажених товарів відкрито
+2025-05-21 22:36:00 INFO  [JavaFX Application Thread] view.LoadedCoffeeView - Створення вікна завантажених товарів
+2025-05-21 22:36:00 INFO  [JavaFX Application Thread] view.LoadedCoffeeView - Завантажено 0 фургонів
+2025-05-21 22:36:00 INFO  [JavaFX Application Thread] view.CoffeeApp - Перегляд завантажених товарів відкрито
+2025-05-21 22:36:01 INFO  [JavaFX Application Thread] view.SortCoffeeView - Початок сортування кави за ціна/вага
+2025-05-21 22:36:01 INFO  [JavaFX Application Thread] view.SortCoffeeView - Сортування завершено, знайдено 3 елементів
+2025-05-21 22:36:01 INFO  [JavaFX Application Thread] view.CoffeeApp - Сортування кави відкрите
+2025-05-21 22:40:04 INFO  [JavaFX Application Thread] view.CoffeeApp - Пошук кави відкрито
+2025-05-21 23:52:17 INFO  [JavaFX Application Thread] view.CoffeeApp - Програма завершена користувачем
+2025-05-22 00:03:28 INFO  [JavaFX Application Thread] view.CoffeeApp - Запуск програми CoffeeApp
+2025-05-22 00:03:29 INFO  [JavaFX Application Thread] view.CoffeeApp - Базу даних ініціалізовано успішно
+2025-05-22 00:03:30 INFO  [JavaFX Application Thread] view.CoffeeApp - Фонове зображення завантажено успішно
+2025-05-22 00:03:30 INFO  [JavaFX Application Thread] view.CoffeeListView - Створення вікна списку кави
+2025-05-22 00:03:30 INFO  [JavaFX Application Thread] view.CoffeeListView - Успішно завантажено 0 товарів
+2025-05-22 00:03:30 INFO  [JavaFX Application Thread] view.CoffeeApp - Початковий екран завантажено
+2025-05-22 00:03:30 INFO  [JavaFX Application Thread] view.CoffeeApp - Головне вікно показано
+2025-05-22 00:03:31 INFO  [JavaFX Application Thread] view.SortCoffeeView - Початок сортування кави за ціна/вага
+2025-05-22 00:03:31 INFO  [JavaFX Application Thread] view.SortCoffeeView - Сортування завершено, знайдено 0 елементів
+2025-05-22 00:03:31 INFO  [JavaFX Application Thread] view.CoffeeApp - Сортування кави відкрите
+2025-05-22 00:03:31 INFO  [JavaFX Application Thread] view.CoffeeApp - Запуск програми CoffeeApp
+2025-05-22 00:03:32 INFO  [JavaFX Application Thread] view.CoffeeApp - Базу даних ініціалізовано успішно
+2025-05-22 00:03:32 INFO  [JavaFX Application Thread] view.CoffeeApp - Фонове зображення завантажено успішно
+2025-05-22 00:03:32 INFO  [JavaFX Application Thread] view.CoffeeListView - Створення вікна списку кави
+2025-05-22 00:03:32 INFO  [JavaFX Application Thread] view.CoffeeListView - Успішно завантажено 0 товарів
+2025-05-22 00:03:32 INFO  [JavaFX Application Thread] view.CoffeeApp - Початковий екран завантажено
+2025-05-22 00:03:32 INFO  [JavaFX Application Thread] view.CoffeeApp - Головне вікно показано
+2025-05-22 00:03:32 INFO  [JavaFX Application Thread] view.CoffeeApp - Форма додавання кави відкрита
+2025-05-22 00:03:33 INFO  [JavaFX Application Thread] view.CoffeeApp - Запуск програми CoffeeApp
+2025-05-22 00:03:33 INFO  [JavaFX Application Thread] view.CoffeeApp - Базу даних ініціалізовано успішно
+2025-05-22 00:03:33 INFO  [JavaFX Application Thread] view.CoffeeApp - Фонове зображення завантажено успішно
+2025-05-22 00:03:33 INFO  [JavaFX Application Thread] view.CoffeeListView - Створення вікна списку кави
+2025-05-22 00:03:33 INFO  [JavaFX Application Thread] view.CoffeeListView - Успішно завантажено 0 товарів
+2025-05-22 00:03:33 INFO  [JavaFX Application Thread] view.CoffeeApp - Початковий екран завантажено
+2025-05-22 00:03:33 INFO  [JavaFX Application Thread] view.CoffeeApp - Головне вікно показано
+2025-05-22 00:03:34 INFO  [JavaFX Application Thread] view.CoffeeApp - Пошук кави відкрито
+2025-05-22 00:03:34 INFO  [JavaFX Application Thread] view.CoffeeApp - Запуск програми CoffeeApp
+2025-05-22 00:03:34 INFO  [JavaFX Application Thread] view.CoffeeApp - Базу даних ініціалізовано успішно
+2025-05-22 00:03:35 INFO  [JavaFX Application Thread] view.CoffeeApp - Фонове зображення завантажено успішно
+2025-05-22 00:03:35 INFO  [JavaFX Application Thread] view.CoffeeListView - Створення вікна списку кави
+2025-05-22 00:03:35 INFO  [JavaFX Application Thread] view.CoffeeListView - Успішно завантажено 0 товарів
+2025-05-22 00:03:35 INFO  [JavaFX Application Thread] view.CoffeeApp - Початковий екран завантажено
+2025-05-22 00:03:35 INFO  [JavaFX Application Thread] view.CoffeeApp - Головне вікно показано
+2025-05-22 00:03:35 INFO  [JavaFX Application Thread] view.LoadedCoffeeView - Створення вікна завантажених товарів
+2025-05-22 00:03:35 INFO  [JavaFX Application Thread] view.LoadedCoffeeView - Завантажено 0 фургонів
+2025-05-22 00:03:35 INFO  [JavaFX Application Thread] view.CoffeeApp - Перегляд завантажених товарів відкрито
+2025-05-22 00:03:35 INFO  [JavaFX Application Thread] view.CoffeeApp - Запуск програми CoffeeApp
+2025-05-22 00:03:36 INFO  [JavaFX Application Thread] view.CoffeeApp - Базу даних ініціалізовано успішно
+2025-05-22 00:03:36 INFO  [JavaFX Application Thread] view.CoffeeApp - Фонове зображення завантажено успішно
+2025-05-22 00:03:36 INFO  [JavaFX Application Thread] view.CoffeeListView - Створення вікна списку кави
+2025-05-22 00:03:36 INFO  [JavaFX Application Thread] view.CoffeeListView - Успішно завантажено 0 товарів
+2025-05-22 00:03:36 INFO  [JavaFX Application Thread] view.CoffeeApp - Початковий екран завантажено
+2025-05-22 00:03:36 INFO  [JavaFX Application Thread] view.CoffeeApp - Головне вікно показано
+2025-05-22 00:03:36 INFO  [JavaFX Application Thread] view.CoffeeApp - Завантаження фургону відкрите
+2025-05-22 00:03:37 INFO  [JavaFX Application Thread] view.CoffeeApp - Запуск програми CoffeeApp
+2025-05-22 00:03:37 INFO  [JavaFX Application Thread] view.CoffeeApp - Базу даних ініціалізовано успішно
+2025-05-22 00:03:37 INFO  [JavaFX Application Thread] view.CoffeeApp - Фонове зображення завантажено успішно
+2025-05-22 00:03:37 INFO  [JavaFX Application Thread] view.CoffeeListView - Створення вікна списку кави
+2025-05-22 00:03:37 INFO  [JavaFX Application Thread] view.CoffeeListView - Успішно завантажено 0 товарів
+2025-05-22 00:03:37 INFO  [JavaFX Application Thread] view.CoffeeApp - Початковий екран завантажено
+2025-05-22 00:03:37 INFO  [JavaFX Application Thread] view.CoffeeApp - Головне вікно показано
+2025-05-22 00:03:37 INFO  [JavaFX Application Thread] view.CoffeeListView - Створення вікна списку кави
+2025-05-22 00:03:37 INFO  [JavaFX Application Thread] view.CoffeeListView - Успішно завантажено 0 товарів
+2025-05-22 00:03:37 INFO  [JavaFX Application Thread] view.CoffeeApp - Перегляд товарів відкрито
+2025-05-22 00:03:38 INFO  [JavaFX Application Thread] view.CoffeeApp - Запуск програми CoffeeApp
+2025-05-22 00:03:38 INFO  [JavaFX Application Thread] view.CoffeeApp - Базу даних ініціалізовано успішно
+2025-05-22 00:03:38 INFO  [JavaFX Application Thread] view.CoffeeApp - Фонове зображення завантажено успішно
+2025-05-22 00:03:38 INFO  [JavaFX Application Thread] view.CoffeeListView - Створення вікна списку кави
+2025-05-22 00:03:38 INFO  [JavaFX Application Thread] view.CoffeeListView - Успішно завантажено 0 товарів
+2025-05-22 00:03:38 INFO  [JavaFX Application Thread] view.CoffeeApp - Початковий екран завантажено
+2025-05-22 00:03:38 INFO  [JavaFX Application Thread] view.CoffeeApp - Головне вікно показано
+2025-05-22 00:03:39 INFO  [JavaFX Application Thread] view.CoffeeApp - Програма завершена користувачем
+2025-05-22 00:03:44 ERROR [JavaFX Application Thread] view.AddCoffeeView - Помилка при додаванні кави
+java.lang.NumberFormatException: For input string: "bad_number"
+	at java.base/jdk.internal.math.FloatingDecimal.readJavaFormatString(FloatingDecimal.java:2054)
+	at java.base/jdk.internal.math.FloatingDecimal.parseDouble(FloatingDecimal.java:110)
+	at java.base/java.lang.Double.parseDouble(Double.java:792)
+	at view.AddCoffeeView.lambda$new$0(AddCoffeeView.java:44)
+	at com.sun.javafx.event.CompositeEventHandler.dispatchBubblingEvent(CompositeEventHandler.java:86)
+	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:232)
+	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:189)
+	at com.sun.javafx.event.CompositeEventDispatcher.dispatchBubblingEvent(CompositeEventDispatcher.java:59)
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:58)
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+	at com.sun.javafx.event.EventUtil.fireEventImpl(EventUtil.java:74)
+	at com.sun.javafx.event.EventUtil.fireEvent(EventUtil.java:54)
+	at javafx.event.Event.fireEvent(Event.java:198)
+	at javafx.scene.Node.fireEvent(Node.java:8875)
+	at javafx.scene.control.Button.fire(Button.java:203)
+	at view.AddCoffeeViewTest.lambda$testAddCoffeeView_InvalidInput_ShowsError$1(AddCoffeeViewTest.java:76)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.base/java.util.concurrent.FutureTask.run$$$capture(FutureTask.java:317)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java)
+	at com.sun.javafx.application.PlatformImpl.lambda$runLater$10(PlatformImpl.java:456)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:400)
+	at com.sun.javafx.application.PlatformImpl.lambda$runLater$11(PlatformImpl.java:455)
+	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run$$$capture(InvokeLaterDispatcher.java:95)
+	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java)
+	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at com.sun.glass.ui.win.WinApplication.lambda$runLoop$3(WinApplication.java:185)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+2025-05-22 00:03:44 INFO  [JavaFX Application Thread] view.AddCoffeeView - Кава успішно додана: Кава [Тип: Зернова, Пакування: Банка, Об'єм: 1,10 л, Вага: 2,00 кг, Цiна: 150,00 грн]
+2025-05-22 00:03:44 INFO  [JavaFX Application Thread] view.AddCoffeeView - Кава успішно додана: Кава [Тип: Розчинна, Пакування: Пачка, Об'єм: 1,05 л, Вага: 1,00 кг, Цiна: 100,00 грн]
+2025-05-22 00:03:46 INFO  [main] view.CoffeeListView - Створення вікна списку кави
+2025-05-22 00:03:46 ERROR [main] view.CoffeeListView - Помилка при завантаженні списку кави
+java.lang.RuntimeException: DB error
+	at service.CoffeeService.getAllCoffees(CoffeeService.java:56)
+	at view.CoffeeListView.<init>(CoffeeListView.java:19)
+	at view.CoffeeListViewTest.testCoffeeListViewHandlesExceptionGracefully(CoffeeListViewTest.java:64)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.junit.platform.commons.util.ReflectionUtils.invokeMethod(ReflectionUtils.java:728)
+	at org.junit.jupiter.engine.execution.MethodInvocation.proceed(MethodInvocation.java:60)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain$ValidatingInvocation.proceed(InvocationInterceptorChain.java:131)
+	at org.junit.jupiter.engine.extension.TimeoutExtension.intercept(TimeoutExtension.java:156)
+	at org.junit.jupiter.engine.extension.TimeoutExtension.interceptTestableMethod(TimeoutExtension.java:147)
+	at org.junit.jupiter.engine.extension.TimeoutExtension.interceptTestMethod(TimeoutExtension.java:86)
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker$ReflectiveInterceptorCall.lambda$ofVoidMethod$0(InterceptingExecutableInvoker.java:103)
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker.lambda$invoke$0(InterceptingExecutableInvoker.java:93)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain$InterceptedInvocation.proceed(InvocationInterceptorChain.java:106)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.proceed(InvocationInterceptorChain.java:64)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.chainAndInvoke(InvocationInterceptorChain.java:45)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.invoke(InvocationInterceptorChain.java:37)
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker.invoke(InterceptingExecutableInvoker.java:92)
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker.invoke(InterceptingExecutableInvoker.java:86)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.lambda$invokeTestMethod$7(TestMethodTestDescriptor.java:218)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.invokeTestMethod(TestMethodTestDescriptor.java:214)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:139)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:69)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:151)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:155)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:155)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.submit(SameThreadHierarchicalTestExecutorService.java:35)
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestExecutor.execute(HierarchicalTestExecutor.java:57)
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestEngine.execute(HierarchicalTestEngine.java:54)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:198)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:169)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:93)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.lambda$execute$0(EngineExecutionOrchestrator.java:58)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.withInterceptedStreams(EngineExecutionOrchestrator.java:141)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:57)
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:103)
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:85)
+	at org.junit.platform.launcher.core.DelegatingLauncher.execute(DelegatingLauncher.java:47)
+	at org.junit.platform.launcher.core.SessionPerRequestLauncher.execute(SessionPerRequestLauncher.java:63)
+	at com.intellij.junit5.JUnit5IdeaTestRunner.startRunnerWithArgs(JUnit5IdeaTestRunner.java:57)
+	at com.intellij.rt.junit.IdeaTestRunner$Repeater$1.execute(IdeaTestRunner.java:38)
+	at com.intellij.rt.execution.junit.TestsRepeater.repeat(TestsRepeater.java:11)
+	at com.intellij.rt.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:35)
+	at com.intellij.rt.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:231)
+	at com.intellij.rt.junit.JUnitStarter.main(JUnitStarter.java:55)
+2025-05-22 00:03:46 INFO  [main] view.CoffeeListView - Створення вікна списку кави
+2025-05-22 00:03:46 INFO  [main] view.CoffeeListView - Успішно завантажено 2 товарів
+2025-05-22 00:03:46 INFO  [main] view.CoffeeListView - Створення вікна списку кави
+2025-05-22 00:03:46 INFO  [main] view.CoffeeListView - Успішно завантажено 0 товарів
+2025-05-22 00:03:47 WARN  [main] view.SearchCoffeeView - Некоректний формат введених даних для пошуку кави: For input string: "a"
+2025-05-22 00:03:47 INFO  [main] view.SearchCoffeeView - Пошук кави за параметрами: вага від 100.0 до 300.0, ціна від 20.0 до 35.0
+2025-05-22 00:03:47 INFO  [main] view.SearchCoffeeView - Пошук кави за параметрами: вага від 10.0 до 20.0, ціна від 5.0 до 15.0
+2025-05-22 00:03:47 INFO  [main] view.SearchCoffeeView - Пошук кави за параметрами: вага від 10.0 до 20.0, ціна від 5.0 до 15.0
+2025-05-22 00:03:47 ERROR [main] view.SearchCoffeeView - Критична помилка при пошуку кави
+java.lang.RuntimeException: DB Error
+	at service.CoffeeService.findByQuality(CoffeeService.java:66)
+	at view.SearchCoffeeView.lambda$new$0(SearchCoffeeView.java:50)
+	at com.sun.javafx.event.CompositeEventHandler.dispatchBubblingEvent(CompositeEventHandler.java:86)
+	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:232)
+	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:189)
+	at com.sun.javafx.event.CompositeEventDispatcher.dispatchBubblingEvent(CompositeEventDispatcher.java:59)
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:58)
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+	at com.sun.javafx.event.EventUtil.fireEventImpl(EventUtil.java:74)
+	at com.sun.javafx.event.EventUtil.fireEvent(EventUtil.java:54)
+	at javafx.event.Event.fireEvent(Event.java:198)
+	at javafx.scene.Node.fireEvent(Node.java:8875)
+	at javafx.scene.control.Button.fire(Button.java:203)
+	at view.SearchCoffeeViewTest.testSearchWithExceptionInService(SearchCoffeeViewTest.java:91)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.junit.platform.commons.util.ReflectionUtils.invokeMethod(ReflectionUtils.java:728)
+	at org.junit.jupiter.engine.execution.MethodInvocation.proceed(MethodInvocation.java:60)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain$ValidatingInvocation.proceed(InvocationInterceptorChain.java:131)
+	at org.junit.jupiter.engine.extension.TimeoutExtension.intercept(TimeoutExtension.java:156)
+	at org.junit.jupiter.engine.extension.TimeoutExtension.interceptTestableMethod(TimeoutExtension.java:147)
+	at org.junit.jupiter.engine.extension.TimeoutExtension.interceptTestMethod(TimeoutExtension.java:86)
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker$ReflectiveInterceptorCall.lambda$ofVoidMethod$0(InterceptingExecutableInvoker.java:103)
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker.lambda$invoke$0(InterceptingExecutableInvoker.java:93)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain$InterceptedInvocation.proceed(InvocationInterceptorChain.java:106)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.proceed(InvocationInterceptorChain.java:64)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.chainAndInvoke(InvocationInterceptorChain.java:45)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.invoke(InvocationInterceptorChain.java:37)
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker.invoke(InterceptingExecutableInvoker.java:92)
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker.invoke(InterceptingExecutableInvoker.java:86)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.lambda$invokeTestMethod$7(TestMethodTestDescriptor.java:218)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.invokeTestMethod(TestMethodTestDescriptor.java:214)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:139)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:69)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:151)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:155)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:155)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.submit(SameThreadHierarchicalTestExecutorService.java:35)
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestExecutor.execute(HierarchicalTestExecutor.java:57)
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestEngine.execute(HierarchicalTestEngine.java:54)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:198)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:169)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:93)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.lambda$execute$0(EngineExecutionOrchestrator.java:58)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.withInterceptedStreams(EngineExecutionOrchestrator.java:141)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:57)
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:103)
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:85)
+	at org.junit.platform.launcher.core.DelegatingLauncher.execute(DelegatingLauncher.java:47)
+	at org.junit.platform.launcher.core.SessionPerRequestLauncher.execute(SessionPerRequestLauncher.java:63)
+	at com.intellij.junit5.JUnit5IdeaTestRunner.startRunnerWithArgs(JUnit5IdeaTestRunner.java:57)
+	at com.intellij.rt.junit.IdeaTestRunner$Repeater$1.execute(IdeaTestRunner.java:38)
+	at com.intellij.rt.execution.junit.TestsRepeater.repeat(TestsRepeater.java:11)
+	at com.intellij.rt.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:35)
+	at com.intellij.rt.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:231)
+	at com.intellij.rt.junit.JUnitStarter.main(JUnitStarter.java:55)
+2025-05-22 00:03:48 INFO  [main] view.SortCoffeeView - Початок сортування кави за ціна/вага
+2025-05-22 00:03:48 INFO  [main] view.SortCoffeeView - Сортування завершено, знайдено 2 елементів
+2025-05-22 00:03:48 INFO  [main] view.SortCoffeeView - Початок сортування кави за ціна/вага
+2025-05-22 00:03:48 ERROR [main] view.SortCoffeeView - Помилка при сортуванні кави за ціна/вага
+java.lang.RuntimeException: DB error
+	at service.CoffeeService.sortByPricePerWeight(CoffeeService.java:60)
+	at view.SortCoffeeView.<init>(SortCoffeeView.java:20)
+	at view.SortCoffeeViewTest.testSortThrowsException(SortCoffeeViewTest.java:57)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.junit.platform.commons.util.ReflectionUtils.invokeMethod(ReflectionUtils.java:728)
+	at org.junit.jupiter.engine.execution.MethodInvocation.proceed(MethodInvocation.java:60)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain$ValidatingInvocation.proceed(InvocationInterceptorChain.java:131)
+	at org.junit.jupiter.engine.extension.TimeoutExtension.intercept(TimeoutExtension.java:156)
+	at org.junit.jupiter.engine.extension.TimeoutExtension.interceptTestableMethod(TimeoutExtension.java:147)
+	at org.junit.jupiter.engine.extension.TimeoutExtension.interceptTestMethod(TimeoutExtension.java:86)
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker$ReflectiveInterceptorCall.lambda$ofVoidMethod$0(InterceptingExecutableInvoker.java:103)
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker.lambda$invoke$0(InterceptingExecutableInvoker.java:93)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain$InterceptedInvocation.proceed(InvocationInterceptorChain.java:106)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.proceed(InvocationInterceptorChain.java:64)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.chainAndInvoke(InvocationInterceptorChain.java:45)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.invoke(InvocationInterceptorChain.java:37)
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker.invoke(InterceptingExecutableInvoker.java:92)
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker.invoke(InterceptingExecutableInvoker.java:86)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.lambda$invokeTestMethod$7(TestMethodTestDescriptor.java:218)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.invokeTestMethod(TestMethodTestDescriptor.java:214)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:139)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:69)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:151)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:155)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:155)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.submit(SameThreadHierarchicalTestExecutorService.java:35)
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestExecutor.execute(HierarchicalTestExecutor.java:57)
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestEngine.execute(HierarchicalTestEngine.java:54)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:198)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:169)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:93)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.lambda$execute$0(EngineExecutionOrchestrator.java:58)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.withInterceptedStreams(EngineExecutionOrchestrator.java:141)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:57)
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:103)
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:85)
+	at org.junit.platform.launcher.core.DelegatingLauncher.execute(DelegatingLauncher.java:47)
+	at org.junit.platform.launcher.core.SessionPerRequestLauncher.execute(SessionPerRequestLauncher.java:63)
+	at com.intellij.junit5.JUnit5IdeaTestRunner.startRunnerWithArgs(JUnit5IdeaTestRunner.java:57)
+	at com.intellij.rt.junit.IdeaTestRunner$Repeater$1.execute(IdeaTestRunner.java:38)
+	at com.intellij.rt.execution.junit.TestsRepeater.repeat(TestsRepeater.java:11)
+	at com.intellij.rt.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:35)
+	at com.intellij.rt.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:231)
+	at com.intellij.rt.junit.JUnitStarter.main(JUnitStarter.java:55)
+2025-05-22 00:03:48 INFO  [main] view.SortCoffeeView - Початок сортування кави за ціна/вага
+2025-05-22 00:03:48 INFO  [main] view.SortCoffeeView - Сортування завершено, знайдено 0 елементів
+2025-05-22 00:03:48 INFO  [JavaFX Application Thread] view.LoadedCoffeeView - Створення вікна завантажених товарів
+2025-05-22 00:03:48 INFO  [JavaFX Application Thread] view.LoadedCoffeeView - Завантажено 0 фургонів
+2025-05-22 00:03:49 INFO  [JavaFX Application Thread] view.LoadedCoffeeView - Обрано фургон ID=0 із 1 видами кави
+2025-05-22 00:03:49 INFO  [JavaFX Application Thread] view.LoadedCoffeeView - Створення вікна завантажених товарів
+2025-05-22 00:03:49 INFO  [JavaFX Application Thread] view.LoadedCoffeeView - Завантажено 0 фургонів
+2025-05-22 00:03:50 INFO  [JavaFX Application Thread] view.LoadedCoffeeView - Обрано фургон ID=0 із 0 видами кави
+2025-05-22 00:03:50 WARN  [JavaFX Application Thread] view.LoadedCoffeeView - Не вдалося видалити фургон ID=0
+2025-05-22 00:03:50 INFO  [JavaFX Application Thread] view.LoadedCoffeeView - Створення вікна завантажених товарів
+2025-05-22 00:03:50 INFO  [JavaFX Application Thread] view.LoadedCoffeeView - Завантажено 0 фургонів
+2025-05-22 00:03:51 ERROR [JavaFX Application Thread] view.LoadedCoffeeView - Помилка при завантаженні кави для фургона ID=0
+java.lang.RuntimeException: DB read fail
+	at database.TruckCoffeeDAO.getCoffeeForTruck(TruckCoffeeDAO.java:36)
+	at view.LoadedCoffeeView.lambda$new$1(LoadedCoffeeView.java:65)
+	at com.sun.javafx.binding.ExpressionHelper$SingleChange.fireValueChangedEvent(ExpressionHelper.java:192)
+	at com.sun.javafx.binding.ExpressionHelper.fireValueChangedEvent(ExpressionHelper.java:91)
+	at javafx.beans.property.ReadOnlyObjectPropertyBase.fireValueChangedEvent(ReadOnlyObjectPropertyBase.java:80)
+	at javafx.beans.property.ReadOnlyObjectWrapper.fireValueChangedEvent(ReadOnlyObjectWrapper.java:102)
+	at javafx.beans.property.ObjectPropertyBase.markInvalid(ObjectPropertyBase.java:113)
+	at javafx.beans.property.ObjectPropertyBase.set(ObjectPropertyBase.java:147)
+	at javafx.scene.control.SelectionModel.setSelectedItem(SelectionModel.java:105)
+	at javafx.scene.control.MultipleSelectionModelBase.select(MultipleSelectionModelBase.java:467)
+	at view.LoadedCoffeeViewTest.lambda$testTruckSelectionCoffeeLoadError$2(LoadedCoffeeViewTest.java:107)
+	at com.sun.javafx.application.PlatformImpl.lambda$runLater$10(PlatformImpl.java:456)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:400)
+	at com.sun.javafx.application.PlatformImpl.lambda$runLater$11(PlatformImpl.java:455)
+	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run$$$capture(InvokeLaterDispatcher.java:95)
+	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java)
+	at com.sun.glass.ui.win.WinApplication._enterNestedEventLoopImpl(Native Method)
+	at com.sun.glass.ui.win.WinApplication._enterNestedEventLoop(WinApplication.java:212)
+	at com.sun.glass.ui.Application.enterNestedEventLoop(Application.java:515)
+	at com.sun.glass.ui.EventLoop.enter(EventLoop.java:107)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.enterNestedEventLoop(QuantumToolkit.java:650)
+	at javafx.stage.Stage.showAndWait(Stage.java:469)
+	at javafx.scene.control.HeavyweightDialog.showAndWait(HeavyweightDialog.java:162)
+	at javafx.scene.control.Dialog.showAndWait(Dialog.java:346)
+	at view.LoadedCoffeeView.lambda$new$2(LoadedCoffeeView.java:97)
+	at com.sun.javafx.event.CompositeEventHandler.dispatchBubblingEvent(CompositeEventHandler.java:86)
+	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:232)
+	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:189)
+	at com.sun.javafx.event.CompositeEventDispatcher.dispatchBubblingEvent(CompositeEventDispatcher.java:59)
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:58)
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56)
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56)
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+	at com.sun.javafx.event.EventUtil.fireEventImpl(EventUtil.java:74)
+	at com.sun.javafx.event.EventUtil.fireEvent(EventUtil.java:54)
+	at javafx.event.Event.fireEvent(Event.java:198)
+	at javafx.scene.Node.fireEvent(Node.java:8875)
+	at javafx.scene.control.Button.fire(Button.java:203)
+	at view.LoadedCoffeeViewTest.lambda$testDeleteTruckFailure$4(LoadedCoffeeViewTest.java:140)
+	at com.sun.javafx.application.PlatformImpl.lambda$runLater$10(PlatformImpl.java:456)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:400)
+	at com.sun.javafx.application.PlatformImpl.lambda$runLater$11(PlatformImpl.java:455)
+	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run$$$capture(InvokeLaterDispatcher.java:95)
+	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java)
+	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at com.sun.glass.ui.win.WinApplication.lambda$runLoop$3(WinApplication.java:185)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+2025-05-22 00:03:51 INFO  [JavaFX Application Thread] view.LoadedCoffeeView - Створення вікна завантажених товарів
+2025-05-22 00:03:51 INFO  [JavaFX Application Thread] view.LoadedCoffeeView - Завантажено 0 фургонів
+2025-05-22 00:03:52 INFO  [JavaFX Application Thread] view.LoadedCoffeeView - Обрано фургон ID=0 із 0 видами кави
+2025-05-22 00:03:52 INFO  [JavaFX Application Thread] view.LoadedCoffeeView - Створення вікна завантажених товарів
+2025-05-22 00:03:52 INFO  [JavaFX Application Thread] view.LoadedCoffeeView - Завантажено 0 фургонів
+2025-05-22 00:03:53 INFO  [JavaFX Application Thread] view.LoadedCoffeeView - Обрано фургон ID=0 із 0 видами кави
+2025-05-22 00:03:53 ERROR [JavaFX Application Thread] view.LoadedCoffeeView - Помилка при видаленні фургона ID=0
+java.lang.RuntimeException: delete error
+	at database.TruckDAO.deleteTruckById(TruckDAO.java:56)
+	at view.LoadedCoffeeView.lambda$new$2(LoadedCoffeeView.java:87)
+	at com.sun.javafx.event.CompositeEventHandler.dispatchBubblingEvent(CompositeEventHandler.java:86)
+	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:232)
+	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:189)
+	at com.sun.javafx.event.CompositeEventDispatcher.dispatchBubblingEvent(CompositeEventDispatcher.java:59)
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:58)
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56)
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56)
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+	at com.sun.javafx.event.EventUtil.fireEventImpl(EventUtil.java:74)
+	at com.sun.javafx.event.EventUtil.fireEvent(EventUtil.java:49)
+	at javafx.event.Event.fireEvent(Event.java:198)
+	at javafx.scene.Node.fireEvent(Node.java:8875)
+	at javafx.scene.control.Button.fire(Button.java:203)
+	at view.LoadedCoffeeViewTest.lambda$testDeleteTruckException$5(LoadedCoffeeViewTest.java:157)
+	at com.sun.javafx.application.PlatformImpl.lambda$runLater$10(PlatformImpl.java:456)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:400)
+	at com.sun.javafx.application.PlatformImpl.lambda$runLater$11(PlatformImpl.java:455)
+	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run$$$capture(InvokeLaterDispatcher.java:95)
+	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java)
+	at com.sun.glass.ui.win.WinApplication._enterNestedEventLoopImpl(Native Method)
+	at com.sun.glass.ui.win.WinApplication._enterNestedEventLoop(WinApplication.java:212)
+	at com.sun.glass.ui.Application.enterNestedEventLoop(Application.java:515)
+	at com.sun.glass.ui.EventLoop.enter(EventLoop.java:107)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.enterNestedEventLoop(QuantumToolkit.java:650)
+	at javafx.stage.Stage.showAndWait(Stage.java:469)
+	at javafx.scene.control.HeavyweightDialog.showAndWait(HeavyweightDialog.java:162)
+	at javafx.scene.control.Dialog.showAndWait(Dialog.java:346)
+	at view.LoadedCoffeeView.lambda$new$2(LoadedCoffeeView.java:97)
+	at com.sun.javafx.event.CompositeEventHandler.dispatchBubblingEvent(CompositeEventHandler.java:86)
+	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:232)
+	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:189)
+	at com.sun.javafx.event.CompositeEventDispatcher.dispatchBubblingEvent(CompositeEventDispatcher.java:59)
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:58)
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56)
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56)
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+	at com.sun.javafx.event.EventUtil.fireEventImpl(EventUtil.java:74)
+	at com.sun.javafx.event.EventUtil.fireEvent(EventUtil.java:54)
+	at javafx.event.Event.fireEvent(Event.java:198)
+	at javafx.scene.Node.fireEvent(Node.java:8875)
+	at javafx.scene.control.Button.fire(Button.java:203)
+	at view.LoadedCoffeeViewTest.lambda$testDeleteTruckFailure$4(LoadedCoffeeViewTest.java:140)
+	at com.sun.javafx.application.PlatformImpl.lambda$runLater$10(PlatformImpl.java:456)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:400)
+	at com.sun.javafx.application.PlatformImpl.lambda$runLater$11(PlatformImpl.java:455)
+	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run$$$capture(InvokeLaterDispatcher.java:95)
+	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java)
+	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at com.sun.glass.ui.win.WinApplication.lambda$runLoop$3(WinApplication.java:185)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+2025-05-22 00:03:53 INFO  [JavaFX Application Thread] view.LoadedCoffeeView - Створення вікна завантажених товарів
+2025-05-22 00:03:53 INFO  [JavaFX Application Thread] view.LoadedCoffeeView - Завантажено 0 фургонів
+2025-05-22 00:03:54 INFO  [JavaFX Application Thread] view.LoadedCoffeeView - Створення вікна завантажених товарів
+2025-05-22 00:03:54 INFO  [JavaFX Application Thread] view.LoadedCoffeeView - Завантажено 0 фургонів
+2025-05-22 00:03:54 INFO  [JavaFX Application Thread] view.LoadedCoffeeView - Обрано фургон ID=0 із 0 видами кави
+2025-05-22 00:03:54 INFO  [JavaFX Application Thread] view.LoadedCoffeeView - Фургон ID=0 успішно видалено
+2025-05-22 00:03:56 WARN  [JavaFX Application Thread] view.LoadTruckView - Спроба створити фургон з неправильним форматом об'єму: abc
+2025-05-22 00:03:57 INFO  [JavaFX Application Thread] view.LoadTruckView - Фургон створено з об'ємом 150.5 л
+2025-05-22 00:03:57 WARN  [JavaFX Application Thread] view.LoadTruckView - Не обрано товар для завантаження
+2025-05-22 00:03:58 INFO  [JavaFX Application Thread] view.LoadTruckView - Фургон створено з об'ємом 100.0 л
+2025-05-22 00:03:58 INFO  [JavaFX Application Thread] view.LoadTruckView - Завантажено 2 од. кави 'Arabica' у фургон
+2025-05-22 00:03:58 INFO  [JavaFX Application Thread] view.LoadTruckView - Фургон створено з об'ємом 100.0 л
+2025-05-22 00:03:58 WARN  [JavaFX Application Thread] view.LoadTruckView - Недостатньо місця у фургоні для завантаження 2 од. кави 'Arabica'
+2025-05-22 00:03:59 INFO  [JavaFX Application Thread] view.LoadTruckView - Фургон створено з об'ємом 100.0 л
+2025-05-22 00:03:59 WARN  [JavaFX Application Thread] view.LoadTruckView - Неправильний формат кількості: abc
