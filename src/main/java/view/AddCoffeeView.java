@@ -45,7 +45,7 @@ public class AddCoffeeView extends VBox {
                 double weight = Double.parseDouble(weightField.getText());
                 double price = Double.parseDouble(priceField.getText());
 
-                // Додаємо обʼєм тари
+
                 volume += packaging.equals("Банка") ? 0.1 : 0.05;
 
                 Coffee coffee = new Coffee(type, packaging, volume, weight, price);

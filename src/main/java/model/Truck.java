@@ -5,7 +5,7 @@ import java.util.Map;
 
 public class Truck {
     private double capacity;
-    private Map<Coffee, Integer> loadedCoffee; // Зберігає каву та кількість
+    private Map<Coffee, Integer> loadedCoffee;
 
     public Truck(double capacity) {
         this.capacity = capacity;
@@ -32,7 +32,7 @@ public class Truck {
     }
 
     public Map<Coffee, Integer> getLoadedCoffeeDetails() {
-        return loadedCoffee; // Повертаємо мапу завантажених товарів
+        return loadedCoffee;
     }
 
     private long id;

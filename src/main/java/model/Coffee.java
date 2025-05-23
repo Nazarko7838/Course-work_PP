@@ -15,7 +15,7 @@ public class Coffee {
         this.price = price;
     }
 
-    // Геттери для базових значень
+
     public String getCoffeeType() { return coffeeType; }
     public String getPhysicalState() { return physicalState; }
     public double getUnitVolume() { return volume; }

@@ -42,7 +42,7 @@ public class CoffeeApp extends Application {
         }
 
         try {
-            // Іконка програми
+
             Image icon = new Image(getClass().getResourceAsStream("/icon.png"));
             primaryStage.getIcons().add(icon);
         } catch (Exception e) {
@@ -51,10 +51,8 @@ public class CoffeeApp extends Application {
 
         primaryStage.setTitle("Фургон з Кавою");
 
-        // === Основний макет ===
         BorderPane root = new BorderPane();
 
-        // === Ліва панель ===
         BorderPane leftPanel = new BorderPane();
         leftPanel.setPadding(new Insets(15));
         leftPanel.setStyle("-fx-background-color: rgba(255, 255, 255, 0.6);");
@@ -73,7 +71,6 @@ public class CoffeeApp extends Application {
 
         topButtons.getChildren().addAll(btnView, btnAdd, btnLoad, btnSort, btnSearch, btnLoaded);
 
-        // Кнопка "Вихід"
         Button btnExit = new Button("Вихід");
         btnExit.setStyle("-fx-background-color: red; -fx-text-fill: white;");
         btnExit.setMaxWidth(Double.MAX_VALUE);
@@ -85,11 +82,10 @@ public class CoffeeApp extends Application {
         leftPanel.setTop(topButtons);
         leftPanel.setBottom(btnExit);
 
-        // === Центральна панель ===
+
         StackPane contentPane = new StackPane();
         contentPane.setPadding(new Insets(15));
 
-        // === Фонове зображення ===
         try {
             Image backgroundImage = new Image("file:src/main/resources/bg2.jpg");
             BackgroundImage background = new BackgroundImage(
@@ -103,11 +99,9 @@ public class CoffeeApp extends Application {
             logger.error("Не вдалося завантажити фонове зображення", e);
         }
 
-        // Додаємо панелі
         root.setLeft(leftPanel);
         root.setCenter(contentPane);
 
-        // === Дії кнопок ===
         btnView.setOnAction(e -> {
             contentPane.getChildren().setAll(new CoffeeListView(coffeeService));
             logger.info("Перегляд товарів відкрито");
@@ -138,11 +132,9 @@ public class CoffeeApp extends Application {
             logger.info("Перегляд завантажених товарів відкрито");
         });
 
-        // === Початковий екран ===
         contentPane.getChildren().add(new CoffeeListView(coffeeService));
         logger.info("Початковий екран завантажено");
 
-        // === Встановлення сцени ===
         Scene scene = new Scene(root, 900, 600);
         primaryStage.setScene(scene);
         primaryStage.show();

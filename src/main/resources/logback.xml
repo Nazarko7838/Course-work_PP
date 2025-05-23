@@ -20,7 +20,7 @@
         <smtpPort>587</smtpPort>
         <STARTTLS>true</STARTTLS>
         <username>hazbinurt@gmail.com</username>
-        <password>ggjc mdxo kjwl tpmn</password> <!-- Use App Password if 2FA is enabled -->
+        <password>ggjc mdxo kjwl tpmn</password>
         <to>ekspali59@gmail.com</to>
         <from>hazbinurt@gmail.com</from>
         <subject>Error Log: %logger{20} - %msg</subject>

@@ -66,8 +66,7 @@ public class SearchCoffeeView extends VBox {
                 statusLabel.setText("Помилка пошуку. Зверніться до адміністратора.");
                 statusLabel.setStyle("-fx-text-fill: red;");
 
-                // Можна додати відправку email, якщо потрібно
-                // EmailNotifier.sendErrorNotification("Критична помилка у SearchCoffeeView", ex);
+
             }
         });
 
