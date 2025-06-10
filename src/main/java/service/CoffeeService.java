@@ -22,6 +22,9 @@ public class CoffeeService {
     private TruckCoffeeDAO coffeeDAO = new TruckCoffeeDAO();
     private long currentTruckId = -1;
 
+    // Структура для зберігання кави у фургоні
+    private Map<Coffee, Integer> loadedCoffeeMap = new HashMap<>();
+
     public CoffeeService() {
         this.coffees = new ArrayList<>();
         loadInitialCoffeeData("src\\main\\resources\\initial_coffee_data.txt");
@@ -67,19 +70,31 @@ public class CoffeeService {
             System.out.println("Фургон ще не створено.");
             return new ArrayList<>();
         }
-        return truck.getLoadedCoffeeDetails().entrySet().stream()
+        return loadedCoffeeMap.entrySet().stream()
                 .filter(entry -> entry.getKey().getTotalWeight() >= minWeight
                         && entry.getKey().getTotalWeight() <= maxWeight)
                 .filter(entry -> entry.getKey().getTotalPrice() >= minPrice
                         && entry.getKey().getTotalPrice() <= maxPrice)
-                .map(entry -> entry.getKey())
+                .map(Map.Entry::getKey)
                 .collect(Collectors.toList());
     }
 
     public void createTruck(double capacity) {
-        this.truck = new Truck(capacity);
-        this.currentTruckId = truckDAO.saveTruck(truck);
-        System.out.println("Фургон створено з ID = " + currentTruckId);
+    this.truck = new Truck(capacity);
+    this.currentTruckId = truckDAO.saveTruck(truck);
+    this.loadedCoffeeMap.clear(); 
+    System.out.println("Фургон створено з ID = " + currentTruckId);
+}
+
+
+    public double getLoadedVolume() {
+        return loadedCoffeeMap.entrySet().stream()
+                .mapToDouble(e -> e.getKey().getTotalVolume() * e.getValue())
+                .sum();
+    }
+
+    public boolean canLoad(Coffee coffee, int quantity) {
+        return (getLoadedVolume() + coffee.getTotalVolume() * quantity) <= truck.getCapacity();
     }
 
     public boolean loadTruckWithCoffee(Coffee coffee, int quantity) {
@@ -88,8 +103,9 @@ public class CoffeeService {
             return false;
         }
 
-        if (truck.canLoad(coffee, quantity)) {
-            truck.loadCoffee(coffee, quantity);
+        if (canLoad(coffee, quantity)) {
+            loadedCoffeeMap.put(coffee, loadedCoffeeMap.getOrDefault(coffee, 0) + quantity);
+            System.out.println("Кава " + coffee.getCoffeeType() + " завантажена у фургон у кiлькостi " + quantity + ".");
             coffeeDAO.saveCoffee(currentTruckId, coffee, quantity);
             return true;
         } else {
@@ -99,10 +115,6 @@ public class CoffeeService {
     }
 
     public Map<Coffee, Integer> getLoadedCoffeeDetails() {
-        if (truck == null) {
-            return new HashMap<>(); // або Collections.emptyMap()
-        }
-        return truck.getLoadedCoffeeDetails();
+        return loadedCoffeeMap;
     }
-
 }
